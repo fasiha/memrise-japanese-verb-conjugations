@@ -1,0 +1,18 @@
+{
+  "name": "kamiya-memrise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "kamiya-codec": "git+https://github.com/fasiha/kamiya-codec.git"
+  },
+  "devDependencies": {
+    "typescript": "^3.2.2"
+  }
+}

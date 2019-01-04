@@ -27,7 +27,7 @@ let engConj = `X
 (I) X'ed
 if (I) X
 X!
-(I) will X`.split('\n');
+(I) will X/let’s X`.split('\n');
 let header = 'Dict,negative,polite,past,conditional,imperative,volitional'.split(',');
 if (header.length !== conj.length) {
     throw new Error('header.length!==conj.length?');
@@ -52,7 +52,7 @@ let allVerbs = type1Verbs.concat(type2Verbs).concat(irregularVerbs);
 console.log('base\tconjugated\tEnglish');
 for (let cidx = 1; cidx < conj.length; cidx++) {
     for (let [vi, v] of enumerate(allVerbs)) {
-        console.log(`${v} (${header[cidx]})\t${table[vi][cidx]}\t${engConj[cidx].replace('X', engBase[vi])}`);
+        console.log(`${v} (${header[cidx]})\t${table[vi][cidx]}\t${engConj[cidx].replace(/X/g, engBase[vi])}`);
     }
     console.log('\n');
 }

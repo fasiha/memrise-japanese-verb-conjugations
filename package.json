@@ -6,11 +6,12 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "tsc -p .",
-    "run": "npm run build && node index.js > course.tsv"
+    "run": "npm run build && node index.js > course.tsv",
+    "commit": "npm run run && git commit -a"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "Unlicense",
   "dependencies": {
     "kamiya-codec": "git+https://github.com/fasiha/kamiya-codec.git"
   },

@@ -19,9 +19,9 @@ const append = (left: string, right: string) => left + (left.endsWith(right) ? '
 const verbToRow = (v: string, type2: boolean) =>
     conj.map((c, i) => append(kamiya.conjugate(v, c, type2)[0], endings[i]));
 
-let [type1kanji, type1kana] = [kanji, kana].map(vs => vs.slice(0, 8).map(v => verbToRow(v, false)));
-let [type2kanji, type2kana] = [kanji, kana].map(vs => vs.slice(8, 10).map(v => verbToRow(v, true)));
-let [irregkanji, irregkana] = [kanji, kana].map(vs => vs.slice(10).map(v => verbToRow(v, false)));
+let [type1kanji, type1kana] = [kanji, kana].map(vs => vs.slice(0, 9).map(v => verbToRow(v, false)));
+let [type2kanji, type2kana] = [kanji, kana].map(vs => vs.slice(9, 11).map(v => verbToRow(v, true)));
+let [irregkanji, irregkana] = [kanji, kana].map(vs => vs.slice(11).map(v => verbToRow(v, false)));
 let tableKanji = type1kanji.concat(type2kanji).concat(irregkanji);
 let tableKana = type1kana.concat(type2kana).concat(irregkana);
 

@@ -9,7 +9,7 @@ base	base kana	conjugated	conjugated kana	English
 取る (negative)	とる (negative)	取らない	とらない	(I) don’t take
 買う (negative)	かう (negative)	買わない	かわない	(I) don’t buy
 見る (negative)	みる (negative)	見ない	みない	(I) don’t see
-食べる (negative)	たべる (negative)	食べらない	たべらない	(I) don’t eat
+食べる (negative)	たべる (negative)	食べない	たべない	(I) don’t eat
 来る (negative)	くる (negative)	来ない	こない	(I) don’t come
 する (negative)	する (negative)	しない	しない	(I) don’t do
 
@@ -24,7 +24,7 @@ base	base kana	conjugated	conjugated kana	English
 取る (polite)	とる (polite)	取ります	とります	(I) take (polite)
 買う (polite)	かう (polite)	買います	かいます	(I) buy (polite)
 見る (polite)	みる (polite)	見ます	みます	(I) see (polite)
-食べる (polite)	たべる (polite)	食べります	たべります	(I) eat (polite)
+食べる (polite)	たべる (polite)	食べます	たべます	(I) eat (polite)
 来る (polite)	くる (polite)	来ます	きます	(I) come (polite)
 する (polite)	する (polite)	します	します	(I) do (polite)
 
@@ -39,7 +39,7 @@ base	base kana	conjugated	conjugated kana	English
 取る (past)	とる (past)	取った	とった	(I) take’ed
 買う (past)	かう (past)	買った	かった	(I) buy’ed
 見る (past)	みる (past)	見た	みた	(I) see’ed
-食べる (past)	たべる (past)	食べった	たべった	(I) eat’ed
+食べる (past)	たべる (past)	食べた	たべた	(I) eat’ed
 来る (past)	くる (past)	来た	きた	(I) come’ed
 する (past)	する (past)	した	した	(I) do’ed
 
@@ -69,7 +69,7 @@ base	base kana	conjugated	conjugated kana	English
 取る (imperative)	とる (imperative)	取れ	とれ	take!
 買う (imperative)	かう (imperative)	買え	かえ	buy!
 見る (imperative)	みる (imperative)	見ろ	みろ	see!
-食べる (imperative)	たべる (imperative)	食べれ	たべれ	eat!
+食べる (imperative)	たべる (imperative)	食べろ	たべろ	eat!
 来る (imperative)	くる (imperative)	来い	こい	come!
 する (imperative)	する (imperative)	しろ	しろ	do!
 
@@ -84,7 +84,7 @@ base	base kana	conjugated	conjugated kana	English
 取る (volitional)	とる (volitional)	取ろう	とろう	(I) will take/let’s take
 買う (volitional)	かう (volitional)	買おう	かおう	(I) will buy/let’s buy
 見る (volitional)	みる (volitional)	見よう	みよう	(I) will see/let’s see
-食べる (volitional)	たべる (volitional)	食べろう	たべろう	(I) will eat/let’s eat
+食べる (volitional)	たべる (volitional)	食べよう	たべよう	(I) will eat/let’s eat
 来る (volitional)	くる (volitional)	来よう	こよう	(I) will come/let’s come
 する (volitional)	する (volitional)	しよう	しよう	(I) will do/let’s do
 

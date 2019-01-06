@@ -83,6 +83,7 @@ function makeTable(kana: string, kanji: string, aux: kamiya.Auxiliary, typeII: b
       console.log([wrap(printableKanji), wrap(printableKana), conjKanji, conjKana, eng].join('\t'));
     }
   }
+  console.log('\n');
 }
 
 function masu() {
@@ -121,7 +122,7 @@ function tai() {
     [kamiya.Conjugation.Negative, 'negative', '(I) don’t want to eat'],
     [kamiya.Conjugation.Ta, 'past', '(I) wanted to eat'],
     [kamiya.Conjugation.Conditional, 'conditional', 'as long as (I) want to eat, …'],
-    [kamiya.Conjugation.Te, 'te', '(I) want to eat and so …; because (I) want to eat, …'],
+    [kamiya.Conjugation.Te, 'te', '(I) want to eat and thus …; because (I) want to eat, …'],
     [kamiya.Conjugation.Tara, 'tara', 'if (I) want to eat, then …'],
 
   ];
@@ -137,9 +138,24 @@ function tagaru() {
     [kamiya.Conjugation.Negative, 'negative', '(he) doesn’t want to play'],
     [kamiya.Conjugation.Conjunctive, 'polite', '(he) wishes to play (polite)'],
     [kamiya.Conjugation.Ta, 'past', '(he) wanted to play'],
-    [kamiya.Conjugation.Te, 'te', '(he) wants to play and so …; because (he) wanted to play, …'],
+    [kamiya.Conjugation.Te, 'te', '(he) wants to play and thus …; because (he) wants to play, …'],
     [kamiya.Conjugation.Tara, 'tara', 'if (he) wants to play, then …'],
   ];
   makeTable(kana, kanji, kamiya.Auxiliary.Tagaru, false, conjs);
 }
 tagaru();
+
+function hoshii() {
+  let kana = 'みる';
+  let kanji = '見る';
+  let conjs: [kamiya.Conjugation, string, string][] = [
+    [kamiya.Conjugation.Dictionary, 'hoshii', '(I) want (him) to see'],
+    [kamiya.Conjugation.Negative, 'negative', '(I) don’t want (him) to see'],
+    [kamiya.Conjugation.Ta, 'past', '(I) wanted (him) to see'],
+    [kamiya.Conjugation.Conditional, 'conditional', 'as long as (I) want (him) to see, …'],
+    [kamiya.Conjugation.Te, 'te', '(I) want (him) to see and thus …; because (I) want (him) to see, …'],
+    [kamiya.Conjugation.Tara, 'tara', 'if (I) want (him) to see, then …'],
+  ];
+  makeTable(kana, kanji, kamiya.Auxiliary.Hoshii, true, conjs);
+}
+hoshii();

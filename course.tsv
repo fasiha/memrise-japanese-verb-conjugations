@@ -139,6 +139,8 @@ base	base kana	conjugated	conjugated kana	English
 行きます＋negative	いきます＋negative	行きません	いきません	(I) don’t/didn’t go
 行きます＋past	いきます＋past	行きました	いきました	(I) went
 行きます＋volitional	いきます＋volitional	行きましょう	いきましょう	(I) will go, let’s go
+
+
 base	base kana	conjugated	conjugated kana	English
 買う＋masu	かう＋masu	買わない	かわない	(I) don’t buy
 買わない＋    negative	かわない＋    negative	買わなくはない	かわなくはない	    it isn’t that (I) don’t buy
@@ -146,17 +148,32 @@ base	base kana	conjugated	conjugated kana	English
 買わない＋    conditional	かわない＋    conditional	買わなければ	かわなければ	    as long as (I) don’t buy, …
 買わない＋    te	かわない＋    te	買わなくて	かわなくて	    (I’m) not buying and so …; because (I’m) not buying, …
 買わない＋    tara	かわない＋    tara	買わなかったら	かわなかったら	    if/when (I) don’t buy, then …
+
+
 base	base kana	conjugated	conjugated kana	English
 食べる＋tai	たべる＋tai	食べたい	たべたい	(I) want to eat
 食べたい＋negative	たべたい＋negative	食べたくない	たべたくない	(I) don’t want to eat
 食べたい＋past	たべたい＋past	食べたかった	たべたかった	(I) wanted to eat
 食べたい＋conditional	たべたい＋conditional	食べたければ	たべたければ	as long as (I) want to eat, …
-食べたい＋te	たべたい＋te	食べたくて	たべたくて	(I) want to eat and so …; because (I) want to eat, …
+食べたい＋te	たべたい＋te	食べたくて	たべたくて	(I) want to eat and thus …; because (I) want to eat, …
 食べたい＋tara	たべたい＋tara	食べたかったら	たべたかったら	if (I) want to eat, then …
+
+
 base	base kana	conjugated	conjugated kana	English
 遊ぶ＋tagaru	あそぶ＋tagaru	遊びたがる	あそびたがる	(he) wants to play
 遊びたがる＋negative	あそびたがる＋negative	遊びたがら	あそびたがら	(he) doesn’t want to play
 遊びたがる＋polite	あそびたがる＋polite	遊びたがり	あそびたがり	(he) wishes to play (polite)
 遊びたがる＋past	あそびたがる＋past	遊びたがった	あそびたがった	(he) wanted to play
-遊びたがる＋te	あそびたがる＋te	遊びたがって	あそびたがって	(he) wants to play and so …; because (he) wanted to play, …
+遊びたがる＋te	あそびたがる＋te	遊びたがって	あそびたがって	(he) wants to play and thus …; because (he) wants to play, …
 遊びたがる＋tara	あそびたがる＋tara	遊びたがったら	あそびたがったら	if (he) wants to play, then …
+
+
+base	base kana	conjugated	conjugated kana	English
+見る＋hoshii	みる＋hoshii	見てほしい	みてほしい	(I) want (him) to see
+見てほしい＋negative	みてほしい＋negative	見てほしくない	みてほしくない	(I) don’t want (him) to see
+見てほしい＋past	みてほしい＋past	見てほしかった	みてほしかった	(I) wanted (him) to see
+見てほしい＋conditional	みてほしい＋conditional	見てほしければ	みてほしければ	as long as (I) want (him) to see, …
+見てほしい＋te	みてほしい＋te	見てほしくて	みてほしくて	(I) want (him) to see and thus …; because (I) want (him) to see, …
+見てほしい＋tara	みてほしい＋tara	見てほしかったら	みてほしかったら	if (I) want (him) to see, then …
+
+

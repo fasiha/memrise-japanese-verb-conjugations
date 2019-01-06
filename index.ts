@@ -135,12 +135,12 @@ function tagaru() {
   let kana = 'あそぶ';
   let kanji = '遊ぶ';
   let conjs: [kamiya.Conjugation, string, string,string?][] = [
-    [kamiya.Conjugation.Dictionary, 'tagaru', '(he) wants to play'],
-    [kamiya.Conjugation.Negative, 'negative', '(he) doesn’t want to play', 'ない'],
-    [kamiya.Conjugation.Conjunctive, 'polite', '(he) wishes to play (polite)', 'ます'],
-    [kamiya.Conjugation.Ta, 'past', '(he) wanted to play'],
-    [kamiya.Conjugation.Te, 'te', '(he) wants to play and thus …; because (he) wants to play, …'],
-    [kamiya.Conjugation.Tara, 'tara', 'if (he) wants to play, then …'],
+    [kamiya.Conjugation.Dictionary, 'tagaru', '(They) want to play'],
+    [kamiya.Conjugation.Negative, 'negative', '(They) don’t want to play', 'ない'],
+    [kamiya.Conjugation.Conjunctive, 'polite', '(They) wish to play (polite)', 'ます'],
+    [kamiya.Conjugation.Ta, 'past', '(They) wanted to play'],
+    [kamiya.Conjugation.Te, 'te', '(They) want to play and thus …; because (they) want to play, …'],
+    [kamiya.Conjugation.Tara, 'tara', 'if (they) want to play, then …'],
   ];
   makeTable(kana, kanji, kamiya.Auxiliary.Tagaru, false, conjs);
 }
@@ -150,12 +150,12 @@ function hoshii() {
   let kana = 'みる';
   let kanji = '見る';
   let conjs: [kamiya.Conjugation, string, string][] = [
-    [kamiya.Conjugation.Dictionary, 'hoshii', '(I) want (him) to see'],
-    [kamiya.Conjugation.Negative, 'negative', '(I) don’t want (him) to see'],
-    [kamiya.Conjugation.Ta, 'past', '(I) wanted (him) to see'],
-    [kamiya.Conjugation.Conditional, 'conditional', 'as long as (I) want (him) to see, …'],
-    [kamiya.Conjugation.Te, 'te', '(I) want (him) to see and thus …; because (I) want (him) to see, …'],
-    [kamiya.Conjugation.Tara, 'tara', 'if (I) want (him) to see, then …'],
+    [kamiya.Conjugation.Dictionary, 'hoshii', '(I) want (them) to see'],
+    [kamiya.Conjugation.Negative, 'negative', '(I) don’t want (them) to see'],
+    [kamiya.Conjugation.Ta, 'past', '(I) wanted (them) to see'],
+    [kamiya.Conjugation.Conditional, 'conditional', 'as long as (I) want (them) to see, …'],
+    [kamiya.Conjugation.Te, 'te', '(I) want (them) to see and thus …; because (I) want (them) to see, …'],
+    [kamiya.Conjugation.Tara, 'tara', 'if (I) want (them) to see, then …'],
   ];
   makeTable(kana, kanji, kamiya.Auxiliary.Hoshii, true, conjs);
 }
@@ -165,15 +165,32 @@ function seru() {
   let kana = 'よむ';
   let kanji = '読む';
   let conjs: [kamiya.Conjugation, string, string, string?][] = [
-    [kamiya.Conjugation.Dictionary, 'seru', '(I) make/let (her) read'],
-    [kamiya.Conjugation.Negative, 'negative', '(I) don’t make/let (her) read', 'ない'],
-    [kamiya.Conjugation.Conjunctive, 'polite', '(I) make/let (her) read (polite)', 'ます'],
-    [kamiya.Conjugation.Ta, 'past', '(I) made/let (her) read'],
-    [kamiya.Conjugation.Conditional, 'conditional', 'as long as (I) made/let (her) read, …', 'ば'],
-    [kamiya.Conjugation.Imperative, 'imperative', 'Make/let (her) read'],
-    [kamiya.Conjugation.Volitional, 'volitional', '(I) will make/let (her) read'],
-    [kamiya.Conjugation.Te, 'te', '(I) make (her) read and thus …; because (I) make (her) read, …'],
+    [kamiya.Conjugation.Dictionary, 'seru', '(I) make/let (them) read'],
+    [kamiya.Conjugation.Negative, 'negative', '(I) don’t make/let (them) read', 'ない'],
+    [kamiya.Conjugation.Conjunctive, 'polite', '(I) make/let (them) read (polite)', 'ます'],
+    [kamiya.Conjugation.Ta, 'past', '(I) made/let (them) read'],
+    [kamiya.Conjugation.Conditional, 'conditional', 'as long as (I) made/let (them) read, …', 'ば'],
+    [kamiya.Conjugation.Imperative, 'imperative', 'Make/let (them) read!'],
+    [kamiya.Conjugation.Volitional, 'volitional', '(I) will make/let (them) read'],
+    [kamiya.Conjugation.Te, 'te', '(I) make (them) read and thus …; because (I) make (them) read, …'],
   ];
   makeTable(kana, kanji, kamiya.Auxiliary.SeruSaseru, false, conjs);
 }
 seru();
+
+function saseru() {
+  let kana = 'たべる';
+  let kanji = '食べる';
+  let conjs: [kamiya.Conjugation, string, string, string?][] = [
+    [kamiya.Conjugation.Dictionary, 'saseru', '(I) make/let (them) eat'],
+    [kamiya.Conjugation.Negative, 'negative', '(I) don’t make/let (them) eat', 'ない'],
+    [kamiya.Conjugation.Conjunctive, 'polite', '(I) make/let (them) eat (polite)', 'ます'],
+    [kamiya.Conjugation.Ta, 'past', '(I) made/let (them) eat'],
+    [kamiya.Conjugation.Conditional, 'conditional', 'as long as (I) made/let (them) eat, …', 'ば'],
+    [kamiya.Conjugation.Imperative, 'imperative', 'Make/let (them) eat!'],
+    [kamiya.Conjugation.Volitional, 'volitional', '(I) will make/let (them) eat'],
+    [kamiya.Conjugation.Te, 'te', '(I) make (them) eat and thus …; because (I) make (them) eat, …'],
+  ];
+  makeTable(kana, kanji, kamiya.Auxiliary.SeruSaseru, true, conjs);
+}
+saseru();

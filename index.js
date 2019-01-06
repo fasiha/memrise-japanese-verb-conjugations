@@ -201,3 +201,29 @@ function saseru() {
     makeTable(kana, kanji, kamiya.Auxiliary.SeruSaseru, true, conjs);
 }
 saseru();
+function reru() {
+    let kana = 'かく';
+    let kanji = '書く';
+    let conjs = [
+        [kamiya.Conjugation.Dictionary, 'reru', '(it) is written'],
+        [kamiya.Conjugation.Negative, 'negative', '(it) isn’t written', 'ない'],
+        [kamiya.Conjugation.Conjunctive, 'polite', '(it) is written (polite)', 'ます'],
+        [kamiya.Conjugation.Ta, 'past', '(it) was written'],
+        [kamiya.Conjugation.Te, 'te', '(it) is written and thus …; because (it) is written, …'],
+    ];
+    makeTable(kana, kanji, kamiya.Auxiliary.ReruRareu, false, conjs);
+}
+reru();
+function rareru() {
+    let kana = 'みる';
+    let kanji = '見る';
+    let conjs = [
+        [kamiya.Conjugation.Dictionary, 'rareru', '(it) is seen'],
+        [kamiya.Conjugation.Negative, 'negative', '(it) isn’t seen', 'ない'],
+        [kamiya.Conjugation.Conjunctive, 'polite', '(it) is seen (polite)', 'ます'],
+        [kamiya.Conjugation.Ta, 'past', '(it) was seen'],
+        [kamiya.Conjugation.Te, 'te', '(it) is seen and thus …; because (it) is seen, …'],
+    ];
+    makeTable(kana, kanji, kamiya.Auxiliary.ReruRareu, true, conjs);
+}
+rareru();

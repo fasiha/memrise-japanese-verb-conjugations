@@ -222,3 +222,17 @@ function rareru() {
   makeTable(kana, kanji, kamiya.Auxiliary.ReruRareu, true, conjs);
 }
 rareru();
+
+function passiveCausative() {
+  let kana = 'かく';
+  let kanji = '書く';
+  let conjs: [kamiya.Conjugation, string, string, string?][] = [
+    [kamiya.Conjugation.Dictionary, 'seru+reru', '(I) am made to write'],
+    [kamiya.Conjugation.Negative, 'negative', '(I) am not made to write', 'ない'],
+    [kamiya.Conjugation.Conjunctive, 'polite', '(I) am made to write (polite)', 'ます'],
+    [kamiya.Conjugation.Ta, 'past', '(I) was made to write'],
+    [kamiya.Conjugation.Te, 'te', '(I) am made to write and thus …; because (I) am made to write, …'],
+  ];
+  makeTable(kana, kanji, kamiya.Auxiliary.CausativePassive, true, conjs);
+}
+passiveCausative();

@@ -1,91 +1,162 @@
 base	base kana	conjugated	conjugated kana	English
-書く (negative)	かく (negative)	書かない	かかない	(I) don’t write
-泳ぐ (negative)	およぐ (negative)	泳がない	およがない	(I) don’t swim
-話す (negative)	はなす (negative)	話さない	はなさない	(I) don’t speak
-待つ (negative)	まつ (negative)	待たない	またない	(I) don’t wait
-死ぬ (negative)	しぬ (negative)	死なない	しなない	(I) don’t die
-飛ぶ (negative)	とぶ (negative)	飛ばない	とばない	(I) don’t fly
-読む (negative)	よむ (negative)	読まない	よまない	(I) don’t read
-取る (negative)	とる (negative)	取らない	とらない	(I) don’t take
-買う (negative)	かう (negative)	買わない	かわない	(I) don’t buy
-見る (negative)	みる (negative)	見ない	みない	(I) don’t see
-食べる (negative)	たべる (negative)	食べない	たべない	(I) don’t eat
-来る (negative)	くる (negative)	来ない	こない	(I) don’t come
-する (negative)	する (negative)	しない	しない	(I) don’t do
+書く＋negative	かく＋negative	書かない	かかない	(I) don’t write
+泳ぐ＋negative	およぐ＋negative	泳がない	およがない	(I) don’t swim
+話す＋negative	はなす＋negative	話さない	はなさない	(I) don’t speak
+待つ＋negative	まつ＋negative	待たない	またない	(I) don’t wait
+死ぬ＋negative	しぬ＋negative	死なない	しなない	(I) don’t die
+飛ぶ＋negative	とぶ＋negative	飛ばない	とばない	(I) don’t fly
+読む＋negative	よむ＋negative	読まない	よまない	(I) don’t read
+取る＋negative	とる＋negative	取らない	とらない	(I) don’t take
+買う＋negative	かう＋negative	買わない	かわない	(I) don’t buy
+見る＋negative	みる＋negative	見ない	みない	(I) don’t see
+食べる＋negative	たべる＋negative	食べない	たべない	(I) don’t eat
+来る＋negative	くる＋negative	来ない	こない	(I) don’t come
+する＋negative	する＋negative	しない	しない	(I) don’t do
 
 
-書く (polite)	かく (polite)	書きます	かきます	(I) write (polite)
-泳ぐ (polite)	およぐ (polite)	泳ぎます	およぎます	(I) swim (polite)
-話す (polite)	はなす (polite)	話します	はなします	(I) speak (polite)
-待つ (polite)	まつ (polite)	待ちます	まちます	(I) wait (polite)
-死ぬ (polite)	しぬ (polite)	死にます	しにます	(I) die (polite)
-飛ぶ (polite)	とぶ (polite)	飛びます	とびます	(I) fly (polite)
-読む (polite)	よむ (polite)	読みます	よみます	(I) read (polite)
-取る (polite)	とる (polite)	取ります	とります	(I) take (polite)
-買う (polite)	かう (polite)	買います	かいます	(I) buy (polite)
-見る (polite)	みる (polite)	見ます	みます	(I) see (polite)
-食べる (polite)	たべる (polite)	食べます	たべます	(I) eat (polite)
-来る (polite)	くる (polite)	来ます	きます	(I) come (polite)
-する (polite)	する (polite)	します	します	(I) do (polite)
+書く＋polite	かく＋polite	書きます	かきます	(I) write (polite)
+泳ぐ＋polite	およぐ＋polite	泳ぎます	およぎます	(I) swim (polite)
+話す＋polite	はなす＋polite	話します	はなします	(I) speak (polite)
+待つ＋polite	まつ＋polite	待ちます	まちます	(I) wait (polite)
+死ぬ＋polite	しぬ＋polite	死にます	しにます	(I) die (polite)
+飛ぶ＋polite	とぶ＋polite	飛びます	とびます	(I) fly (polite)
+読む＋polite	よむ＋polite	読みます	よみます	(I) read (polite)
+取る＋polite	とる＋polite	取ります	とります	(I) take (polite)
+買う＋polite	かう＋polite	買います	かいます	(I) buy (polite)
+見る＋polite	みる＋polite	見ます	みます	(I) see (polite)
+食べる＋polite	たべる＋polite	食べます	たべます	(I) eat (polite)
+来る＋polite	くる＋polite	来ます	きます	(I) come (polite)
+する＋polite	する＋polite	します	します	(I) do (polite)
 
 
-書く (past)	かく (past)	書いた	かいた	(I) write’ed
-泳ぐ (past)	およぐ (past)	泳いだ	およいだ	(I) swim’ed
-話す (past)	はなす (past)	話した	はなした	(I) speak’ed
-待つ (past)	まつ (past)	待った	まった	(I) wait’ed
-死ぬ (past)	しぬ (past)	死んだ	しんだ	(I) die’ed
-飛ぶ (past)	とぶ (past)	飛んだ	とんだ	(I) fly’ed
-読む (past)	よむ (past)	読んだ	よんだ	(I) read’ed
-取る (past)	とる (past)	取った	とった	(I) take’ed
-買う (past)	かう (past)	買った	かった	(I) buy’ed
-見る (past)	みる (past)	見た	みた	(I) see’ed
-食べる (past)	たべる (past)	食べた	たべた	(I) eat’ed
-来る (past)	くる (past)	来た	きた	(I) come’ed
-する (past)	する (past)	した	した	(I) do’ed
+書く＋past	かく＋past	書いた	かいた	(I) write’ed
+泳ぐ＋past	およぐ＋past	泳いだ	およいだ	(I) swim’ed
+話す＋past	はなす＋past	話した	はなした	(I) speak’ed
+待つ＋past	まつ＋past	待った	まった	(I) wait’ed
+死ぬ＋past	しぬ＋past	死んだ	しんだ	(I) die’ed
+飛ぶ＋past	とぶ＋past	飛んだ	とんだ	(I) fly’ed
+読む＋past	よむ＋past	読んだ	よんだ	(I) read’ed
+取る＋past	とる＋past	取った	とった	(I) take’ed
+買う＋past	かう＋past	買った	かった	(I) buy’ed
+見る＋past	みる＋past	見た	みた	(I) see’ed
+食べる＋past	たべる＋past	食べた	たべた	(I) eat’ed
+来る＋past	くる＋past	来た	きた	(I) come’ed
+する＋past	する＋past	した	した	(I) do’ed
 
 
-書く (conditional)	かく (conditional)	書けば	かけば	if (I) write
-泳ぐ (conditional)	およぐ (conditional)	泳げば	およげば	if (I) swim
-話す (conditional)	はなす (conditional)	話せば	はなせば	if (I) speak
-待つ (conditional)	まつ (conditional)	待てば	まてば	if (I) wait
-死ぬ (conditional)	しぬ (conditional)	死ねば	しねば	if (I) die
-飛ぶ (conditional)	とぶ (conditional)	飛べば	とべば	if (I) fly
-読む (conditional)	よむ (conditional)	読めば	よめば	if (I) read
-取る (conditional)	とる (conditional)	取れば	とれば	if (I) take
-買う (conditional)	かう (conditional)	買えば	かえば	if (I) buy
-見る (conditional)	みる (conditional)	見れば	みれば	if (I) see
-食べる (conditional)	たべる (conditional)	食べれば	たべれば	if (I) eat
-来る (conditional)	くる (conditional)	来れば	くれば	if (I) come
-する (conditional)	する (conditional)	すれば	すれば	if (I) do
+書く＋conditional	かく＋conditional	書けば	かけば	as long as (I) write, …
+泳ぐ＋conditional	およぐ＋conditional	泳げば	およげば	as long as (I) swim, …
+話す＋conditional	はなす＋conditional	話せば	はなせば	as long as (I) speak, …
+待つ＋conditional	まつ＋conditional	待てば	まてば	as long as (I) wait, …
+死ぬ＋conditional	しぬ＋conditional	死ねば	しねば	as long as (I) die, …
+飛ぶ＋conditional	とぶ＋conditional	飛べば	とべば	as long as (I) fly, …
+読む＋conditional	よむ＋conditional	読めば	よめば	as long as (I) read, …
+取る＋conditional	とる＋conditional	取れば	とれば	as long as (I) take, …
+買う＋conditional	かう＋conditional	買えば	かえば	as long as (I) buy, …
+見る＋conditional	みる＋conditional	見れば	みれば	as long as (I) see, …
+食べる＋conditional	たべる＋conditional	食べれば	たべれば	as long as (I) eat, …
+来る＋conditional	くる＋conditional	来れば	くれば	as long as (I) come, …
+する＋conditional	する＋conditional	すれば	すれば	as long as (I) do, …
 
 
-書く (imperative)	かく (imperative)	書け	かけ	write!
-泳ぐ (imperative)	およぐ (imperative)	泳げ	およげ	swim!
-話す (imperative)	はなす (imperative)	話せ	はなせ	speak!
-待つ (imperative)	まつ (imperative)	待て	まて	wait!
-死ぬ (imperative)	しぬ (imperative)	死ね	しね	die!
-飛ぶ (imperative)	とぶ (imperative)	飛べ	とべ	fly!
-読む (imperative)	よむ (imperative)	読め	よめ	read!
-取る (imperative)	とる (imperative)	取れ	とれ	take!
-買う (imperative)	かう (imperative)	買え	かえ	buy!
-見る (imperative)	みる (imperative)	見ろ	みろ	see!
-食べる (imperative)	たべる (imperative)	食べろ	たべろ	eat!
-来る (imperative)	くる (imperative)	来い	こい	come!
-する (imperative)	する (imperative)	しろ	しろ	do!
+書く＋imperative	かく＋imperative	書け	かけ	write!
+泳ぐ＋imperative	およぐ＋imperative	泳げ	およげ	swim!
+話す＋imperative	はなす＋imperative	話せ	はなせ	speak!
+待つ＋imperative	まつ＋imperative	待て	まて	wait!
+死ぬ＋imperative	しぬ＋imperative	死ね	しね	die!
+飛ぶ＋imperative	とぶ＋imperative	飛べ	とべ	fly!
+読む＋imperative	よむ＋imperative	読め	よめ	read!
+取る＋imperative	とる＋imperative	取れ	とれ	take!
+買う＋imperative	かう＋imperative	買え	かえ	buy!
+見る＋imperative	みる＋imperative	見ろ	みろ	see!
+食べる＋imperative	たべる＋imperative	食べろ	たべろ	eat!
+来る＋imperative	くる＋imperative	来い	こい	come!
+する＋imperative	する＋imperative	しろ	しろ	do!
 
 
-書く (volitional)	かく (volitional)	書こう	かこう	(I) will write/let’s write
-泳ぐ (volitional)	およぐ (volitional)	泳ごう	およごう	(I) will swim/let’s swim
-話す (volitional)	はなす (volitional)	話そう	はなそう	(I) will speak/let’s speak
-待つ (volitional)	まつ (volitional)	待とう	まとう	(I) will wait/let’s wait
-死ぬ (volitional)	しぬ (volitional)	死のう	しのう	(I) will die/let’s die
-飛ぶ (volitional)	とぶ (volitional)	飛ぼう	とぼう	(I) will fly/let’s fly
-読む (volitional)	よむ (volitional)	読もう	よもう	(I) will read/let’s read
-取る (volitional)	とる (volitional)	取ろう	とろう	(I) will take/let’s take
-買う (volitional)	かう (volitional)	買おう	かおう	(I) will buy/let’s buy
-見る (volitional)	みる (volitional)	見よう	みよう	(I) will see/let’s see
-食べる (volitional)	たべる (volitional)	食べよう	たべよう	(I) will eat/let’s eat
-来る (volitional)	くる (volitional)	来よう	こよう	(I) will come/let’s come
-する (volitional)	する (volitional)	しよう	しよう	(I) will do/let’s do
+書く＋volitional	かく＋volitional	書こう	かこう	(I) will write/let’s write
+泳ぐ＋volitional	およぐ＋volitional	泳ごう	およごう	(I) will swim/let’s swim
+話す＋volitional	はなす＋volitional	話そう	はなそう	(I) will speak/let’s speak
+待つ＋volitional	まつ＋volitional	待とう	まとう	(I) will wait/let’s wait
+死ぬ＋volitional	しぬ＋volitional	死のう	しのう	(I) will die/let’s die
+飛ぶ＋volitional	とぶ＋volitional	飛ぼう	とぼう	(I) will fly/let’s fly
+読む＋volitional	よむ＋volitional	読もう	よもう	(I) will read/let’s read
+取る＋volitional	とる＋volitional	取ろう	とろう	(I) will take/let’s take
+買う＋volitional	かう＋volitional	買おう	かおう	(I) will buy/let’s buy
+見る＋volitional	みる＋volitional	見よう	みよう	(I) will see/let’s see
+食べる＋volitional	たべる＋volitional	食べよう	たべよう	(I) will eat/let’s eat
+来る＋volitional	くる＋volitional	来よう	こよう	(I) will come/let’s come
+する＋volitional	する＋volitional	しよう	しよう	(I) will do/let’s do
 
 
+書く＋te	かく＋te	書いて	かいて	(I) write and …
+泳ぐ＋te	およぐ＋te	泳いで	およいで	(I) swim and …
+話す＋te	はなす＋te	話して	はなして	(I) speak and …
+待つ＋te	まつ＋te	待って	まって	(I) wait and …
+死ぬ＋te	しぬ＋te	死んて	しんて	(I) die and …
+飛ぶ＋te	とぶ＋te	飛んて	とんて	(I) fly and …
+読む＋te	よむ＋te	読んて	よんて	(I) read and …
+取る＋te	とる＋te	取って	とって	(I) take and …
+買う＋te	かう＋te	買って	かって	(I) buy and …
+見る＋te	みる＋te	見て	みて	(I) see and …
+食べる＋te	たべる＋te	食べて	たべて	(I) eat and …
+来る＋te	くる＋te	来て	きて	(I) come and …
+する＋te	する＋te	して	して	(I) do and …
+
+
+書く＋tara	かく＋tara	書いたら	かいたら	if/when (I) write, then …
+泳ぐ＋tara	およぐ＋tara	泳いだら	およいだら	if/when (I) swim, then …
+話す＋tara	はなす＋tara	話したら	はなしたら	if/when (I) speak, then …
+待つ＋tara	まつ＋tara	待ったら	まったら	if/when (I) wait, then …
+死ぬ＋tara	しぬ＋tara	死んだら	しんだら	if/when (I) die, then …
+飛ぶ＋tara	とぶ＋tara	飛んだら	とんだら	if/when (I) fly, then …
+読む＋tara	よむ＋tara	読んだら	よんだら	if/when (I) read, then …
+取る＋tara	とる＋tara	取ったら	とったら	if/when (I) take, then …
+買う＋tara	かう＋tara	買ったら	かったら	if/when (I) buy, then …
+見る＋tara	みる＋tara	見たら	みたら	if/when (I) see, then …
+食べる＋tara	たべる＋tara	食べたら	たべたら	if/when (I) eat, then …
+来る＋tara	くる＋tara	来たら	きたら	if/when (I) come, then …
+する＋tara	する＋tara	したら	したら	if/when (I) do, then …
+
+
+書く＋tari	かく＋tari	書いたり	かいたり	(I) sometimes write and sometimes …
+泳ぐ＋tari	およぐ＋tari	泳いだり	およいだり	(I) sometimes swim and sometimes …
+話す＋tari	はなす＋tari	話したり	はなしたり	(I) sometimes speak and sometimes …
+待つ＋tari	まつ＋tari	待ったり	まったり	(I) sometimes wait and sometimes …
+死ぬ＋tari	しぬ＋tari	死んだり	しんだり	(I) sometimes die and sometimes …
+飛ぶ＋tari	とぶ＋tari	飛んだり	とんだり	(I) sometimes fly and sometimes …
+読む＋tari	よむ＋tari	読んだり	よんだり	(I) sometimes read and sometimes …
+取る＋tari	とる＋tari	取ったり	とったり	(I) sometimes take and sometimes …
+買う＋tari	かう＋tari	買ったり	かったり	(I) sometimes buy and sometimes …
+見る＋tari	みる＋tari	見たり	みたり	(I) sometimes see and sometimes …
+食べる＋tari	たべる＋tari	食べたり	たべたり	(I) sometimes eat and sometimes …
+来る＋tari	くる＋tari	来たり	きたり	(I) sometimes come and sometimes …
+する＋tari	する＋tari	したり	したり	(I) sometimes do and sometimes …
+
+
+base	base kana	conjugated	conjugated kana	English
+行く＋nai	いく＋nai	行きます	いきます	I go (polite)
+行きます＋negative	いきます＋negative	行きません	いきません	(I) don’t/didn’t go
+行きます＋past	いきます＋past	行きました	いきました	(I) went
+行きます＋volitional	いきます＋volitional	行きましょう	いきましょう	(I) will go, let’s go
+base	base kana	conjugated	conjugated kana	English
+買う＋masu	かう＋masu	買わない	かわない	(I) don’t buy
+買わない＋    negative	かわない＋    negative	買わなくはない	かわなくはない	    it isn’t that (I) don’t buy
+買わない＋    past	かわない＋    past	買わなかった	かわなかった	    (I) didn’t buy
+買わない＋    conditional	かわない＋    conditional	買わなければ	かわなければ	    as long as (I) don’t buy, …
+買わない＋    te	かわない＋    te	買わなくて	かわなくて	    (I’m) not buying and so …; because (I’m) not buying, …
+買わない＋    tara	かわない＋    tara	買わなかったら	かわなかったら	    if/when (I) don’t buy, then …
+base	base kana	conjugated	conjugated kana	English
+食べる＋tai	たべる＋tai	食べたい	たべたい	(I) want to eat
+食べたい＋negative	たべたい＋negative	食べたくない	たべたくない	(I) don’t want to eat
+食べたい＋past	たべたい＋past	食べたかった	たべたかった	(I) wanted to eat
+食べたい＋conditional	たべたい＋conditional	食べたければ	たべたければ	as long as (I) want to eat, …
+食べたい＋te	たべたい＋te	食べたくて	たべたくて	(I) want to eat and so …; because (I) want to eat, …
+食べたい＋tara	たべたい＋tara	食べたかったら	たべたかったら	if (I) want to eat, then …
+base	base kana	conjugated	conjugated kana	English
+遊ぶ＋tagaru	あそぶ＋tagaru	遊びたがる	あそびたがる	(he) wants to play
+遊びたがる＋negative	あそびたがる＋negative	遊びたがら	あそびたがら	(he) doesn’t want to play
+遊びたがる＋polite	あそびたがる＋polite	遊びたがり	あそびたがり	(he) wishes to play (polite)
+遊びたがる＋past	あそびたがる＋past	遊びたがった	あそびたがった	(he) wanted to play
+遊びたがる＋te	あそびたがる＋te	遊びたがって	あそびたがって	(he) wants to play and so …; because (he) wanted to play, …
+遊びたがる＋tara	あそびたがる＋tara	遊びたがったら	あそびたがったら	if (he) wants to play, then …

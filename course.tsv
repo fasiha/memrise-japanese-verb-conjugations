@@ -1,240 +1,240 @@
-base	base kana	conjugated	conjugated kana	English
-書く＋negative	かく＋negative	書かない	かかない	(I) don’t write
-泳ぐ＋negative	およぐ＋negative	泳がない	およがない	(I) don’t swim
-話す＋negative	はなす＋negative	話さない	はなさない	(I) don’t speak
-待つ＋negative	まつ＋negative	待たない	またない	(I) don’t wait
-死ぬ＋negative	しぬ＋negative	死なない	しなない	(I) don’t die
-飛ぶ＋negative	とぶ＋negative	飛ばない	とばない	(I) don’t fly
-読む＋negative	よむ＋negative	読まない	よまない	(I) don’t read
-取る＋negative	とる＋negative	取らない	とらない	(I) don’t take
-買う＋negative	かう＋negative	買わない	かわない	(I) don’t buy
-見る＋negative	みる＋negative	見ない	みない	(I) don’t see
-食べる＋negative	たべる＋negative	食べない	たべない	(I) don’t eat
-来る＋negative	くる＋negative	来ない	こない	(I) don’t come
-する＋negative	する＋negative	しない	しない	(I) don’t do
+base kana	conjugated kana	English	base	conjugated
+かく＋negative	かかない	(I) don’t write	書く＋negative	書かない
+およぐ＋negative	およがない	(I) don’t swim	泳ぐ＋negative	泳がない
+はなす＋negative	はなさない	(I) don’t speak	話す＋negative	話さない
+まつ＋negative	またない	(I) don’t wait	待つ＋negative	待たない
+しぬ＋negative	しなない	(I) don’t die	死ぬ＋negative	死なない
+とぶ＋negative	とばない	(I) don’t fly	飛ぶ＋negative	飛ばない
+よむ＋negative	よまない	(I) don’t read	読む＋negative	読まない
+とる＋negative	とらない	(I) don’t take	取る＋negative	取らない
+かう＋negative	かわない	(I) don’t buy	買う＋negative	買わない
+みる＋negative	みない	(I) don’t see	見る＋negative	見ない
+たべる＋negative	たべない	(I) don’t eat	食べる＋negative	食べない
+くる＋negative	こない	(I) don’t come	来る＋negative	来ない
+する＋negative	しない	(I) don’t do	する＋negative	しない
 
 
-書く＋polite	かく＋polite	書きます	かきます	(I) write (polite)
-泳ぐ＋polite	およぐ＋polite	泳ぎます	およぎます	(I) swim (polite)
-話す＋polite	はなす＋polite	話します	はなします	(I) speak (polite)
-待つ＋polite	まつ＋polite	待ちます	まちます	(I) wait (polite)
-死ぬ＋polite	しぬ＋polite	死にます	しにます	(I) die (polite)
-飛ぶ＋polite	とぶ＋polite	飛びます	とびます	(I) fly (polite)
-読む＋polite	よむ＋polite	読みます	よみます	(I) read (polite)
-取る＋polite	とる＋polite	取ります	とります	(I) take (polite)
-買う＋polite	かう＋polite	買います	かいます	(I) buy (polite)
-見る＋polite	みる＋polite	見ます	みます	(I) see (polite)
-食べる＋polite	たべる＋polite	食べます	たべます	(I) eat (polite)
-来る＋polite	くる＋polite	来ます	きます	(I) come (polite)
-する＋polite	する＋polite	します	します	(I) do (polite)
+かく＋polite	かきます	(I) write (polite)	書く＋polite	書きます
+およぐ＋polite	およぎます	(I) swim (polite)	泳ぐ＋polite	泳ぎます
+はなす＋polite	はなします	(I) speak (polite)	話す＋polite	話します
+まつ＋polite	まちます	(I) wait (polite)	待つ＋polite	待ちます
+しぬ＋polite	しにます	(I) die (polite)	死ぬ＋polite	死にます
+とぶ＋polite	とびます	(I) fly (polite)	飛ぶ＋polite	飛びます
+よむ＋polite	よみます	(I) read (polite)	読む＋polite	読みます
+とる＋polite	とります	(I) take (polite)	取る＋polite	取ります
+かう＋polite	かいます	(I) buy (polite)	買う＋polite	買います
+みる＋polite	みます	(I) see (polite)	見る＋polite	見ます
+たべる＋polite	たべます	(I) eat (polite)	食べる＋polite	食べます
+くる＋polite	きます	(I) come (polite)	来る＋polite	来ます
+する＋polite	します	(I) do (polite)	する＋polite	します
 
 
-書く＋past	かく＋past	書いた	かいた	(I) write’ed
-泳ぐ＋past	およぐ＋past	泳いだ	およいだ	(I) swim’ed
-話す＋past	はなす＋past	話した	はなした	(I) speak’ed
-待つ＋past	まつ＋past	待った	まった	(I) wait’ed
-死ぬ＋past	しぬ＋past	死んだ	しんだ	(I) die’ed
-飛ぶ＋past	とぶ＋past	飛んだ	とんだ	(I) fly’ed
-読む＋past	よむ＋past	読んだ	よんだ	(I) read’ed
-取る＋past	とる＋past	取った	とった	(I) take’ed
-買う＋past	かう＋past	買った	かった	(I) buy’ed
-見る＋past	みる＋past	見た	みた	(I) see’ed
-食べる＋past	たべる＋past	食べた	たべた	(I) eat’ed
-来る＋past	くる＋past	来た	きた	(I) come’ed
-する＋past	する＋past	した	した	(I) do’ed
+かく＋past	かいた	(I) write’ed	書く＋past	書いた
+およぐ＋past	およいだ	(I) swim’ed	泳ぐ＋past	泳いだ
+はなす＋past	はなした	(I) speak’ed	話す＋past	話した
+まつ＋past	まった	(I) wait’ed	待つ＋past	待った
+しぬ＋past	しんだ	(I) die’ed	死ぬ＋past	死んだ
+とぶ＋past	とんだ	(I) fly’ed	飛ぶ＋past	飛んだ
+よむ＋past	よんだ	(I) read’ed	読む＋past	読んだ
+とる＋past	とった	(I) take’ed	取る＋past	取った
+かう＋past	かった	(I) buy’ed	買う＋past	買った
+みる＋past	みた	(I) see’ed	見る＋past	見た
+たべる＋past	たべた	(I) eat’ed	食べる＋past	食べた
+くる＋past	きた	(I) come’ed	来る＋past	来た
+する＋past	した	(I) do’ed	する＋past	した
 
 
-書く＋conditional	かく＋conditional	書けば	かけば	as long as (I) write, …
-泳ぐ＋conditional	およぐ＋conditional	泳げば	およげば	as long as (I) swim, …
-話す＋conditional	はなす＋conditional	話せば	はなせば	as long as (I) speak, …
-待つ＋conditional	まつ＋conditional	待てば	まてば	as long as (I) wait, …
-死ぬ＋conditional	しぬ＋conditional	死ねば	しねば	as long as (I) die, …
-飛ぶ＋conditional	とぶ＋conditional	飛べば	とべば	as long as (I) fly, …
-読む＋conditional	よむ＋conditional	読めば	よめば	as long as (I) read, …
-取る＋conditional	とる＋conditional	取れば	とれば	as long as (I) take, …
-買う＋conditional	かう＋conditional	買えば	かえば	as long as (I) buy, …
-見る＋conditional	みる＋conditional	見れば	みれば	as long as (I) see, …
-食べる＋conditional	たべる＋conditional	食べれば	たべれば	as long as (I) eat, …
-来る＋conditional	くる＋conditional	来れば	くれば	as long as (I) come, …
-する＋conditional	する＋conditional	すれば	すれば	as long as (I) do, …
+かく＋conditional	かけば	as long as (I) write, …	書く＋conditional	書けば
+およぐ＋conditional	およげば	as long as (I) swim, …	泳ぐ＋conditional	泳げば
+はなす＋conditional	はなせば	as long as (I) speak, …	話す＋conditional	話せば
+まつ＋conditional	まてば	as long as (I) wait, …	待つ＋conditional	待てば
+しぬ＋conditional	しねば	as long as (I) die, …	死ぬ＋conditional	死ねば
+とぶ＋conditional	とべば	as long as (I) fly, …	飛ぶ＋conditional	飛べば
+よむ＋conditional	よめば	as long as (I) read, …	読む＋conditional	読めば
+とる＋conditional	とれば	as long as (I) take, …	取る＋conditional	取れば
+かう＋conditional	かえば	as long as (I) buy, …	買う＋conditional	買えば
+みる＋conditional	みれば	as long as (I) see, …	見る＋conditional	見れば
+たべる＋conditional	たべれば	as long as (I) eat, …	食べる＋conditional	食べれば
+くる＋conditional	くれば	as long as (I) come, …	来る＋conditional	来れば
+する＋conditional	すれば	as long as (I) do, …	する＋conditional	すれば
 
 
-書く＋imperative	かく＋imperative	書け	かけ	write!
-泳ぐ＋imperative	およぐ＋imperative	泳げ	およげ	swim!
-話す＋imperative	はなす＋imperative	話せ	はなせ	speak!
-待つ＋imperative	まつ＋imperative	待て	まて	wait!
-死ぬ＋imperative	しぬ＋imperative	死ね	しね	die!
-飛ぶ＋imperative	とぶ＋imperative	飛べ	とべ	fly!
-読む＋imperative	よむ＋imperative	読め	よめ	read!
-取る＋imperative	とる＋imperative	取れ	とれ	take!
-買う＋imperative	かう＋imperative	買え	かえ	buy!
-見る＋imperative	みる＋imperative	見ろ	みろ	see!
-食べる＋imperative	たべる＋imperative	食べろ	たべろ	eat!
-来る＋imperative	くる＋imperative	来い	こい	come!
-する＋imperative	する＋imperative	しろ	しろ	do!
+かく＋imperative	かけ	write!	書く＋imperative	書け
+およぐ＋imperative	およげ	swim!	泳ぐ＋imperative	泳げ
+はなす＋imperative	はなせ	speak!	話す＋imperative	話せ
+まつ＋imperative	まて	wait!	待つ＋imperative	待て
+しぬ＋imperative	しね	die!	死ぬ＋imperative	死ね
+とぶ＋imperative	とべ	fly!	飛ぶ＋imperative	飛べ
+よむ＋imperative	よめ	read!	読む＋imperative	読め
+とる＋imperative	とれ	take!	取る＋imperative	取れ
+かう＋imperative	かえ	buy!	買う＋imperative	買え
+みる＋imperative	みろ	see!	見る＋imperative	見ろ
+たべる＋imperative	たべろ	eat!	食べる＋imperative	食べろ
+くる＋imperative	こい	come!	来る＋imperative	来い
+する＋imperative	しろ	do!	する＋imperative	しろ
 
 
-書く＋volitional	かく＋volitional	書こう	かこう	(I) will write/let’s write
-泳ぐ＋volitional	およぐ＋volitional	泳ごう	およごう	(I) will swim/let’s swim
-話す＋volitional	はなす＋volitional	話そう	はなそう	(I) will speak/let’s speak
-待つ＋volitional	まつ＋volitional	待とう	まとう	(I) will wait/let’s wait
-死ぬ＋volitional	しぬ＋volitional	死のう	しのう	(I) will die/let’s die
-飛ぶ＋volitional	とぶ＋volitional	飛ぼう	とぼう	(I) will fly/let’s fly
-読む＋volitional	よむ＋volitional	読もう	よもう	(I) will read/let’s read
-取る＋volitional	とる＋volitional	取ろう	とろう	(I) will take/let’s take
-買う＋volitional	かう＋volitional	買おう	かおう	(I) will buy/let’s buy
-見る＋volitional	みる＋volitional	見よう	みよう	(I) will see/let’s see
-食べる＋volitional	たべる＋volitional	食べよう	たべよう	(I) will eat/let’s eat
-来る＋volitional	くる＋volitional	来よう	こよう	(I) will come/let’s come
-する＋volitional	する＋volitional	しよう	しよう	(I) will do/let’s do
+かく＋volitional	かこう	(I) will write/let’s write	書く＋volitional	書こう
+およぐ＋volitional	およごう	(I) will swim/let’s swim	泳ぐ＋volitional	泳ごう
+はなす＋volitional	はなそう	(I) will speak/let’s speak	話す＋volitional	話そう
+まつ＋volitional	まとう	(I) will wait/let’s wait	待つ＋volitional	待とう
+しぬ＋volitional	しのう	(I) will die/let’s die	死ぬ＋volitional	死のう
+とぶ＋volitional	とぼう	(I) will fly/let’s fly	飛ぶ＋volitional	飛ぼう
+よむ＋volitional	よもう	(I) will read/let’s read	読む＋volitional	読もう
+とる＋volitional	とろう	(I) will take/let’s take	取る＋volitional	取ろう
+かう＋volitional	かおう	(I) will buy/let’s buy	買う＋volitional	買おう
+みる＋volitional	みよう	(I) will see/let’s see	見る＋volitional	見よう
+たべる＋volitional	たべよう	(I) will eat/let’s eat	食べる＋volitional	食べよう
+くる＋volitional	こよう	(I) will come/let’s come	来る＋volitional	来よう
+する＋volitional	しよう	(I) will do/let’s do	する＋volitional	しよう
 
 
-書く＋te	かく＋te	書いて	かいて	(I) write and …
-泳ぐ＋te	およぐ＋te	泳いで	およいで	(I) swim and …
-話す＋te	はなす＋te	話して	はなして	(I) speak and …
-待つ＋te	まつ＋te	待って	まって	(I) wait and …
-死ぬ＋te	しぬ＋te	死んて	しんて	(I) die and …
-飛ぶ＋te	とぶ＋te	飛んて	とんて	(I) fly and …
-読む＋te	よむ＋te	読んて	よんて	(I) read and …
-取る＋te	とる＋te	取って	とって	(I) take and …
-買う＋te	かう＋te	買って	かって	(I) buy and …
-見る＋te	みる＋te	見て	みて	(I) see and …
-食べる＋te	たべる＋te	食べて	たべて	(I) eat and …
-来る＋te	くる＋te	来て	きて	(I) come and …
-する＋te	する＋te	して	して	(I) do and …
+かく＋te	かいて	(I) write and …	書く＋te	書いて
+およぐ＋te	およいで	(I) swim and …	泳ぐ＋te	泳いで
+はなす＋te	はなして	(I) speak and …	話す＋te	話して
+まつ＋te	まって	(I) wait and …	待つ＋te	待って
+しぬ＋te	しんて	(I) die and …	死ぬ＋te	死んて
+とぶ＋te	とんて	(I) fly and …	飛ぶ＋te	飛んて
+よむ＋te	よんて	(I) read and …	読む＋te	読んて
+とる＋te	とって	(I) take and …	取る＋te	取って
+かう＋te	かって	(I) buy and …	買う＋te	買って
+みる＋te	みて	(I) see and …	見る＋te	見て
+たべる＋te	たべて	(I) eat and …	食べる＋te	食べて
+くる＋te	きて	(I) come and …	来る＋te	来て
+する＋te	して	(I) do and …	する＋te	して
 
 
-書く＋tara	かく＋tara	書いたら	かいたら	if/when (I) write, then …
-泳ぐ＋tara	およぐ＋tara	泳いだら	およいだら	if/when (I) swim, then …
-話す＋tara	はなす＋tara	話したら	はなしたら	if/when (I) speak, then …
-待つ＋tara	まつ＋tara	待ったら	まったら	if/when (I) wait, then …
-死ぬ＋tara	しぬ＋tara	死んだら	しんだら	if/when (I) die, then …
-飛ぶ＋tara	とぶ＋tara	飛んだら	とんだら	if/when (I) fly, then …
-読む＋tara	よむ＋tara	読んだら	よんだら	if/when (I) read, then …
-取る＋tara	とる＋tara	取ったら	とったら	if/when (I) take, then …
-買う＋tara	かう＋tara	買ったら	かったら	if/when (I) buy, then …
-見る＋tara	みる＋tara	見たら	みたら	if/when (I) see, then …
-食べる＋tara	たべる＋tara	食べたら	たべたら	if/when (I) eat, then …
-来る＋tara	くる＋tara	来たら	きたら	if/when (I) come, then …
-する＋tara	する＋tara	したら	したら	if/when (I) do, then …
+かく＋tara	かいたら	if/when (I) write, then …	書く＋tara	書いたら
+およぐ＋tara	およいだら	if/when (I) swim, then …	泳ぐ＋tara	泳いだら
+はなす＋tara	はなしたら	if/when (I) speak, then …	話す＋tara	話したら
+まつ＋tara	まったら	if/when (I) wait, then …	待つ＋tara	待ったら
+しぬ＋tara	しんだら	if/when (I) die, then …	死ぬ＋tara	死んだら
+とぶ＋tara	とんだら	if/when (I) fly, then …	飛ぶ＋tara	飛んだら
+よむ＋tara	よんだら	if/when (I) read, then …	読む＋tara	読んだら
+とる＋tara	とったら	if/when (I) take, then …	取る＋tara	取ったら
+かう＋tara	かったら	if/when (I) buy, then …	買う＋tara	買ったら
+みる＋tara	みたら	if/when (I) see, then …	見る＋tara	見たら
+たべる＋tara	たべたら	if/when (I) eat, then …	食べる＋tara	食べたら
+くる＋tara	きたら	if/when (I) come, then …	来る＋tara	来たら
+する＋tara	したら	if/when (I) do, then …	する＋tara	したら
 
 
-書く＋tari	かく＋tari	書いたり	かいたり	(I) sometimes write and sometimes …
-泳ぐ＋tari	およぐ＋tari	泳いだり	およいだり	(I) sometimes swim and sometimes …
-話す＋tari	はなす＋tari	話したり	はなしたり	(I) sometimes speak and sometimes …
-待つ＋tari	まつ＋tari	待ったり	まったり	(I) sometimes wait and sometimes …
-死ぬ＋tari	しぬ＋tari	死んだり	しんだり	(I) sometimes die and sometimes …
-飛ぶ＋tari	とぶ＋tari	飛んだり	とんだり	(I) sometimes fly and sometimes …
-読む＋tari	よむ＋tari	読んだり	よんだり	(I) sometimes read and sometimes …
-取る＋tari	とる＋tari	取ったり	とったり	(I) sometimes take and sometimes …
-買う＋tari	かう＋tari	買ったり	かったり	(I) sometimes buy and sometimes …
-見る＋tari	みる＋tari	見たり	みたり	(I) sometimes see and sometimes …
-食べる＋tari	たべる＋tari	食べたり	たべたり	(I) sometimes eat and sometimes …
-来る＋tari	くる＋tari	来たり	きたり	(I) sometimes come and sometimes …
-する＋tari	する＋tari	したり	したり	(I) sometimes do and sometimes …
+かく＋tari	かいたり	(I) sometimes write and sometimes …	書く＋tari	書いたり
+およぐ＋tari	およいだり	(I) sometimes swim and sometimes …	泳ぐ＋tari	泳いだり
+はなす＋tari	はなしたり	(I) sometimes speak and sometimes …	話す＋tari	話したり
+まつ＋tari	まったり	(I) sometimes wait and sometimes …	待つ＋tari	待ったり
+しぬ＋tari	しんだり	(I) sometimes die and sometimes …	死ぬ＋tari	死んだり
+とぶ＋tari	とんだり	(I) sometimes fly and sometimes …	飛ぶ＋tari	飛んだり
+よむ＋tari	よんだり	(I) sometimes read and sometimes …	読む＋tari	読んだり
+とる＋tari	とったり	(I) sometimes take and sometimes …	取る＋tari	取ったり
+かう＋tari	かったり	(I) sometimes buy and sometimes …	買う＋tari	買ったり
+みる＋tari	みたり	(I) sometimes see and sometimes …	見る＋tari	見たり
+たべる＋tari	たべたり	(I) sometimes eat and sometimes …	食べる＋tari	食べたり
+くる＋tari	きたり	(I) sometimes come and sometimes …	来る＋tari	来たり
+する＋tari	したり	(I) sometimes do and sometimes …	する＋tari	したり
 
 
-base	base kana	conjugated	conjugated kana	English
-行く＋nai	いく＋nai	行きます	いきます	I go (polite)
-行きます＋negative	いきます＋negative	行きません	いきません	(I) don’t/didn’t go
-行きます＋past	いきます＋past	行きました	いきました	(I) went
-行きます＋volitional	いきます＋volitional	行きましょう	いきましょう	(I) will go, let’s go
+base kana	conjugated kana	English	base	conjugated
+いく＋nai	いきます	I go (polite)	行く＋nai	行きます
+いきます＋negative	いきません	(I) don’t/didn’t go	行きます＋negative	行きません
+いきます＋past	いきました	(I) went	行きます＋past	行きました
+いきます＋volitional	いきましょう	(I) will go, let’s go	行きます＋volitional	行きましょう
 
 
-base	base kana	conjugated	conjugated kana	English
-買う＋masu	かう＋masu	買わない	かわない	(I) don’t buy
-買わない＋    negative	かわない＋    negative	買わなくはない	かわなくはない	    it isn’t that (I) don’t buy
-買わない＋    past	かわない＋    past	買わなかった	かわなかった	    (I) didn’t buy
-買わない＋    conditional	かわない＋    conditional	買わなければ	かわなければ	    as long as (I) don’t buy, …
-買わない＋    te	かわない＋    te	買わなくて	かわなくて	    (I’m) not buying and so …; because (I’m) not buying, …
-買わない＋    tara	かわない＋    tara	買わなかったら	かわなかったら	    if/when (I) don’t buy, then …
+base kana	conjugated kana	English	base	conjugated
+かう＋masu	かわない	(I) don’t buy	買う＋masu	買わない
+かわない＋    negative	かわなくはない	    it isn’t that (I) don’t buy	買わない＋    negative	買わなくはない
+かわない＋    past	かわなかった	    (I) didn’t buy	買わない＋    past	買わなかった
+かわない＋    conditional	かわなければ	    as long as (I) don’t buy, …	買わない＋    conditional	買わなければ
+かわない＋    te	かわなくて	    (I’m) not buying and so …; because (I’m) not buying, …	買わない＋    te	買わなくて
+かわない＋    tara	かわなかったら	    if/when (I) don’t buy, then …	買わない＋    tara	買わなかったら
 
 
-base	base kana	conjugated	conjugated kana	English
-食べる＋tai	たべる＋tai	食べたい	たべたい	(I) want to eat
-食べたい＋negative	たべたい＋negative	食べたくない	たべたくない	(I) don’t want to eat
-食べたい＋past	たべたい＋past	食べたかった	たべたかった	(I) wanted to eat
-食べたい＋conditional	たべたい＋conditional	食べたければ	たべたければ	as long as (I) want to eat, …
-食べたい＋te	たべたい＋te	食べたくて	たべたくて	(I) want to eat and thus …; because (I) want to eat, …
-食べたい＋tara	たべたい＋tara	食べたかったら	たべたかったら	if (I) want to eat, then …
+base kana	conjugated kana	English	base	conjugated
+たべる＋tai	たべたい	(I) want to eat	食べる＋tai	食べたい
+たべたい＋negative	たべたくない	(I) don’t want to eat	食べたい＋negative	食べたくない
+たべたい＋past	たべたかった	(I) wanted to eat	食べたい＋past	食べたかった
+たべたい＋conditional	たべたければ	as long as (I) want to eat, …	食べたい＋conditional	食べたければ
+たべたい＋te	たべたくて	(I) want to eat and thus …; because (I) want to eat, …	食べたい＋te	食べたくて
+たべたい＋tara	たべたかったら	if (I) want to eat, then …	食べたい＋tara	食べたかったら
 
 
-base	base kana	conjugated	conjugated kana	English
-遊ぶ＋tagaru	あそぶ＋tagaru	遊びたがる	あそびたがる	(They) want to play
-遊びたがる＋negative	あそびたがる＋negative	遊びたがらない	あそびたがらない	(They) don’t want to play
-遊びたがる＋polite	あそびたがる＋polite	遊びたがります	あそびたがります	(They) wish to play (polite)
-遊びたがる＋past	あそびたがる＋past	遊びたがった	あそびたがった	(They) wanted to play
-遊びたがる＋te	あそびたがる＋te	遊びたがって	あそびたがって	(They) want to play and thus …; because (they) want to play, …
-遊びたがる＋tara	あそびたがる＋tara	遊びたがったら	あそびたがったら	if (they) want to play, then …
+base kana	conjugated kana	English	base	conjugated
+あそぶ＋tagaru	あそびたがる	(They) want to play	遊ぶ＋tagaru	遊びたがる
+あそびたがる＋negative	あそびたがらない	(They) don’t want to play	遊びたがる＋negative	遊びたがらない
+あそびたがる＋polite	あそびたがります	(They) wish to play (polite)	遊びたがる＋polite	遊びたがります
+あそびたがる＋past	あそびたがった	(They) wanted to play	遊びたがる＋past	遊びたがった
+あそびたがる＋te	あそびたがって	(They) want to play and thus …; because (they) want to play, …	遊びたがる＋te	遊びたがって
+あそびたがる＋tara	あそびたがったら	if (they) want to play, then …	遊びたがる＋tara	遊びたがったら
 
 
-base	base kana	conjugated	conjugated kana	English
-見る＋hoshii	みる＋hoshii	見てほしい	みてほしい	(I) want (them) to see
-見てほしい＋negative	みてほしい＋negative	見てほしくない	みてほしくない	(I) don’t want (them) to see
-見てほしい＋past	みてほしい＋past	見てほしかった	みてほしかった	(I) wanted (them) to see
-見てほしい＋conditional	みてほしい＋conditional	見てほしければ	みてほしければ	as long as (I) want (them) to see, …
-見てほしい＋te	みてほしい＋te	見てほしくて	みてほしくて	(I) want (them) to see and thus …; because (I) want (them) to see, …
-見てほしい＋tara	みてほしい＋tara	見てほしかったら	みてほしかったら	if (I) want (them) to see, then …
+base kana	conjugated kana	English	base	conjugated
+みる＋hoshii	みてほしい	(I) want (them) to see	見る＋hoshii	見てほしい
+みてほしい＋negative	みてほしくない	(I) don’t want (them) to see	見てほしい＋negative	見てほしくない
+みてほしい＋past	みてほしかった	(I) wanted (them) to see	見てほしい＋past	見てほしかった
+みてほしい＋conditional	みてほしければ	as long as (I) want (them) to see, …	見てほしい＋conditional	見てほしければ
+みてほしい＋te	みてほしくて	(I) want (them) to see and thus …; because (I) want (them) to see, …	見てほしい＋te	見てほしくて
+みてほしい＋tara	みてほしかったら	if (I) want (them) to see, then …	見てほしい＋tara	見てほしかったら
 
 
-base	base kana	conjugated	conjugated kana	English
-読む＋seru	よむ＋seru	読ませる	よませる	(I) make/let (them) read
-読ませる＋negative	よませる＋negative	読ませない	よませない	(I) don’t make/let (them) read
-読ませる＋polite	よませる＋polite	読ませます	よませます	(I) make/let (them) read (polite)
-読ませる＋past	よませる＋past	読ませた	よませた	(I) made/let (them) read
-読ませる＋conditional	よませる＋conditional	読ませれば	よませれば	as long as (I) made/let (them) read, …
-読ませる＋imperative	よませる＋imperative	読ませろ	よませろ	Make/let (them) read!
-読ませる＋volitional	よませる＋volitional	読ませよう	よませよう	(I) will make/let (them) read
-読ませる＋te	よませる＋te	読ませて	よませて	(I) make (them) read and thus …; because (I) make (them) read, …
+base kana	conjugated kana	English	base	conjugated
+よむ＋seru	よませる	(I) make/let (them) read	読む＋seru	読ませる
+よませる＋negative	よませない	(I) don’t make/let (them) read	読ませる＋negative	読ませない
+よませる＋polite	よませます	(I) make/let (them) read (polite)	読ませる＋polite	読ませます
+よませる＋past	よませた	(I) made/let (them) read	読ませる＋past	読ませた
+よませる＋conditional	よませれば	as long as (I) made/let (them) read, …	読ませる＋conditional	読ませれば
+よませる＋imperative	よませろ	Make/let (them) read!	読ませる＋imperative	読ませろ
+よませる＋volitional	よませよう	(I) will make/let (them) read	読ませる＋volitional	読ませよう
+よませる＋te	よませて	(I) make (them) read and thus …; because (I) make (them) read, …	読ませる＋te	読ませて
 
 
-base	base kana	conjugated	conjugated kana	English
-読む＋seru (short)	よむ＋seru (short)	読ます	よます	(I) make/let (them) read
-読ます＋negative	よます＋negative	読まさない	よまさない	(I) don’t make/let (them) read
-読ます＋polite	よます＋polite	読まします	よまします	(I) make/let (them) read (polite)
-読ます＋past	よます＋past	読ました	よました	(I) made/let (them) read
+base kana	conjugated kana	English	base	conjugated
+よむ＋seru (short)	よます	(I) make/let (them) read	読む＋seru (short)	読ます
+よます＋negative	よまさない	(I) don’t make/let (them) read	読ます＋negative	読まさない
+よます＋polite	よまします	(I) make/let (them) read (polite)	読ます＋polite	読まします
+よます＋past	よました	(I) made/let (them) read	読ます＋past	読ました
 
 
-base	base kana	conjugated	conjugated kana	English
-食べる＋saseru	たべる＋saseru	食べさせる	たべさせる	(I) make/let (them) eat
-食べさせる＋negative	たべさせる＋negative	食べさせない	たべさせない	(I) don’t make/let (them) eat
-食べさせる＋polite	たべさせる＋polite	食べさせます	たべさせます	(I) make/let (them) eat (polite)
-食べさせる＋past	たべさせる＋past	食べさせた	たべさせた	(I) made/let (them) eat
-食べさせる＋conditional	たべさせる＋conditional	食べさせれば	たべさせれば	as long as (I) made/let (them) eat, …
-食べさせる＋imperative	たべさせる＋imperative	食べさせろ	たべさせろ	Make/let (them) eat!
-食べさせる＋volitional	たべさせる＋volitional	食べさせよう	たべさせよう	(I) will make/let (them) eat
-食べさせる＋te	たべさせる＋te	食べさせて	たべさせて	(I) make (them) eat and thus …; because (I) make (them) eat, …
+base kana	conjugated kana	English	base	conjugated
+たべる＋saseru	たべさせる	(I) make/let (them) eat	食べる＋saseru	食べさせる
+たべさせる＋negative	たべさせない	(I) don’t make/let (them) eat	食べさせる＋negative	食べさせない
+たべさせる＋polite	たべさせます	(I) make/let (them) eat (polite)	食べさせる＋polite	食べさせます
+たべさせる＋past	たべさせた	(I) made/let (them) eat	食べさせる＋past	食べさせた
+たべさせる＋conditional	たべさせれば	as long as (I) made/let (them) eat, …	食べさせる＋conditional	食べさせれば
+たべさせる＋imperative	たべさせろ	Make/let (them) eat!	食べさせる＋imperative	食べさせろ
+たべさせる＋volitional	たべさせよう	(I) will make/let (them) eat	食べさせる＋volitional	食べさせよう
+たべさせる＋te	たべさせて	(I) make (them) eat and thus …; because (I) make (them) eat, …	食べさせる＋te	食べさせて
 
 
-base	base kana	conjugated	conjugated kana	English
-書く＋reru	かく＋reru	書かれる	かかれる	(it) is written; (I) can or am able to write
-書かれる＋negative	かかれる＋negative	書かれない	かかれない	(it) isn’t written; (I) cannot or am unable to write
-書かれる＋polite	かかれる＋polite	書かれます	かかれます	(it) is written (polite); (I) am able to write (polite)
-書かれる＋past	かかれる＋past	書かれた	かかれた	(it) was written; (I) was able to write
-書かれる＋te	かかれる＋te	書かれて	かかれて	(it) is written and thus …; (I) am able to write and thus …
+base kana	conjugated kana	English	base	conjugated
+かく＋reru	かかれる	(it) is written; (I) can or am able to write	書く＋reru	書かれる
+かかれる＋negative	かかれない	(it) isn’t written; (I) cannot or am unable to write	書かれる＋negative	書かれない
+かかれる＋polite	かかれます	(it) is written (polite); (I) am able to write (polite)	書かれる＋polite	書かれます
+かかれる＋past	かかれた	(it) was written; (I) was able to write	書かれる＋past	書かれた
+かかれる＋te	かかれて	(it) is written and thus …; (I) am able to write and thus …	書かれる＋te	書かれて
 
 
-base	base kana	conjugated	conjugated kana	English
-見る＋rareru	みる＋rareru	見られる	みられる	(it) is seen; (I) can, or am able to, see
-見られる＋negative	みられる＋negative	見られない	みられない	(it) isn’t seen; (I) cannot, or am not able to, see
-見られる＋polite	みられる＋polite	見られます	みられます	(it) is seen (polite); (I) can, or am able to, see (polite)
-見られる＋past	みられる＋past	見られた	みられた	(it) was seen; (I) was able to see
-見られる＋te	みられる＋te	見られて	みられて	(it) is seen and thus …; (I) am able to see and thus …
+base kana	conjugated kana	English	base	conjugated
+みる＋rareru	みられる	(it) is seen; (I) can, or am able to, see	見る＋rareru	見られる
+みられる＋negative	みられない	(it) isn’t seen; (I) cannot, or am not able to, see	見られる＋negative	見られない
+みられる＋polite	みられます	(it) is seen (polite); (I) can, or am able to, see (polite)	見られる＋polite	見られます
+みられる＋past	みられた	(it) was seen; (I) was able to see	見られる＋past	見られた
+みられる＋te	みられて	(it) is seen and thus …; (I) am able to see and thus …	見られる＋te	見られて
 
 
-base	base kana	conjugated	conjugated kana	English
-書く＋seru+reru	かく＋seru+reru	書かせられる	かかせられる	(I) am made to write
-書かせられる＋negative	かかせられる＋negative	書かせられない	かかせられない	(I) am not made to write
-書かせられる＋polite	かかせられる＋polite	書かせられます	かかせられます	(I) am made to write (polite)
-書かせられる＋past	かかせられる＋past	書かせられた	かかせられた	(I) was made to write
-書かせられる＋te	かかせられる＋te	書かせられて	かかせられて	(I) am made to write and thus …; because (I) am made to write, …
+base kana	conjugated kana	English	base	conjugated
+かく＋seru+reru	かかせられる	(I) am made to write	書く＋seru+reru	書かせられる
+かかせられる＋negative	かかせられない	(I) am not made to write	書かせられる＋negative	書かせられない
+かかせられる＋polite	かかせられます	(I) am made to write (polite)	書かせられる＋polite	書かせられます
+かかせられる＋past	かかせられた	(I) was made to write	書かせられる＋past	書かせられた
+かかせられる＋te	かかせられて	(I) am made to write and thus …; because (I) am made to write, …	書かせられる＋te	書かせられて
 
 
-base	base kana	conjugated	conjugated kana	English
-書く＋seru+reru (short)	かく＋seru+reru (short)	書かされる	かかされる	(I) am made to write
-書かされる＋negative	かかされる＋negative	書かされない	かかされない	(I) am not made to write
-書かされる＋polite	かかされる＋polite	書かされます	かかされます	(I) am made to write (polite)
-書かされる＋past	かかされる＋past	書かされた	かかされた	(I) was made to write
-書かされる＋te	かかされる＋te	書かされて	かかされて	(I) am made to write and thus …; because (I) am made to write, …
+base kana	conjugated kana	English	base	conjugated
+かく＋seru+reru (short)	かかされる	(I) am made to write	書く＋seru+reru (short)	書かされる
+かかされる＋negative	かかされない	(I) am not made to write	書かされる＋negative	書かされない
+かかされる＋polite	かかされます	(I) am made to write (polite)	書かされる＋polite	書かされます
+かかされる＋past	かかされた	(I) was made to write	書かされる＋past	書かされた
+かかされる＋te	かかされて	(I) am made to write and thus …; because (I) am made to write, …	書かされる＋te	書かされて
 
 

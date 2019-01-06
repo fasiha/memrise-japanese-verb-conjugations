@@ -52,7 +52,7 @@ if/when (I) X, then …
   if (conjNames.length !== conj.length) { throw new Error('bad length: conjNames'); }
   if (engConj.length !== conj.length) { throw new Error('bad length: engConj'); }
 
-  console.log('base\tbase kana\tconjugated\tconjugated kana\tEnglish');
+  console.log('base kana, conjugated kana, English, base, conjugated'.split(', ').join('\t'));
   for (let cidx = 1; cidx < conj.length; cidx++) {
     for (let [vi, v] of enumerate(kanji)) {
       let conj = tableKanji[vi][cidx];
@@ -60,7 +60,7 @@ if/when (I) X, then …
       let eng = engConj[cidx].replace(/X/g, engBase[vi]);
       let base = `${v}＋${conjNames[cidx]}`;
       let baseKana = `${kana[vi]}＋${conjNames[cidx]}`;
-      console.log([base, baseKana, conj, conjKana, eng].join('\t'));
+      console.log([baseKana, conjKana, eng, base, conj].join('\t'));
     }
     console.log('\n')
   }
@@ -71,17 +71,17 @@ function makeTable(kana: string, kanji: string, aux: kamiya.Auxiliary, typeII: b
                    conjs: [kamiya.Conjugation, string, string, string?][]) {
   let printableKanji = '';
   let printableKana = '';
-  console.log('base\tbase kana\tconjugated\tconjugated kana\tEnglish');
+  console.log('base kana, conjugated kana, English, base, conjugated'.split(', ').join('\t'));
   for (let [conj, conjName, eng, extra] of conjs) {
     extra = extra || '';
     let [conjKana, conjKanji] = [kana, kanji].map(v => kamiya.conjugateAuxiliary(v, aux, conj, typeII)[0]);
     let wrap = (k: string) => `${k}＋${conjName}`;
     if (conj === kamiya.Conjugation.Dictionary) {
       [printableKanji, printableKana] = [conjKanji, conjKana];
-      console.log([wrap(kanji), wrap(kana), conjKanji + extra, conjKana + extra, eng].join('\t'));
+      console.log([wrap(kana), conjKana + extra, eng, wrap(kanji), conjKanji + extra].join('\t'));
     } else {
       if (printableKana === '') { throw new Error('Did not get a printable/dictionary conjugation first'); }
-      console.log([wrap(printableKanji), wrap(printableKana), conjKanji + extra, conjKana + extra, eng].join('\t'));
+      console.log([wrap(printableKana), conjKana + extra, eng, wrap(printableKanji), conjKanji + extra].join('\t'));
     }
   }
   console.log('\n');

@@ -68,19 +68,20 @@ if/when (I) X, then …
 basics();
 
 function makeTable(kana: string, kanji: string, aux: kamiya.Auxiliary, typeII: boolean,
-                   conjs: [kamiya.Conjugation, string, string][]) {
+                   conjs: [kamiya.Conjugation, string, string, string?][]) {
   let printableKanji = '';
   let printableKana = '';
   console.log('base\tbase kana\tconjugated\tconjugated kana\tEnglish');
-  for (let [conj, conjName, eng] of conjs) {
+  for (let [conj, conjName, eng, extra] of conjs) {
+    extra = extra || '';
     let [conjKana, conjKanji] = [kana, kanji].map(v => kamiya.conjugateAuxiliary(v, aux, conj, typeII)[0]);
     let wrap = (k: string) => `${k}＋${conjName}`;
     if (conj === kamiya.Conjugation.Dictionary) {
       [printableKanji, printableKana] = [conjKanji, conjKana];
-      console.log([wrap(kanji), wrap(kana), conjKanji, conjKana, eng].join('\t'));
+      console.log([wrap(kanji), wrap(kana), conjKanji + extra, conjKana + extra, eng].join('\t'));
     } else {
       if (printableKana === '') { throw new Error('Did not get a printable/dictionary conjugation first'); }
-      console.log([wrap(printableKanji), wrap(printableKana), conjKanji, conjKana, eng].join('\t'));
+      console.log([wrap(printableKanji), wrap(printableKana), conjKanji + extra, conjKana + extra, eng].join('\t'));
     }
   }
   console.log('\n');
@@ -133,10 +134,10 @@ tai();
 function tagaru() {
   let kana = 'あそぶ';
   let kanji = '遊ぶ';
-  let conjs: [kamiya.Conjugation, string, string][] = [
+  let conjs: [kamiya.Conjugation, string, string,string?][] = [
     [kamiya.Conjugation.Dictionary, 'tagaru', '(he) wants to play'],
-    [kamiya.Conjugation.Negative, 'negative', '(he) doesn’t want to play'],
-    [kamiya.Conjugation.Conjunctive, 'polite', '(he) wishes to play (polite)'],
+    [kamiya.Conjugation.Negative, 'negative', '(he) doesn’t want to play', 'ない'],
+    [kamiya.Conjugation.Conjunctive, 'polite', '(he) wishes to play (polite)', 'ます'],
     [kamiya.Conjugation.Ta, 'past', '(he) wanted to play'],
     [kamiya.Conjugation.Te, 'te', '(he) wants to play and thus …; because (he) wants to play, …'],
     [kamiya.Conjugation.Tara, 'tara', 'if (he) wants to play, then …'],
@@ -159,3 +160,20 @@ function hoshii() {
   makeTable(kana, kanji, kamiya.Auxiliary.Hoshii, true, conjs);
 }
 hoshii();
+
+function seru() {
+  let kana = 'よむ';
+  let kanji = '読む';
+  let conjs: [kamiya.Conjugation, string, string, string?][] = [
+    [kamiya.Conjugation.Dictionary, 'seru', '(I) make/let (her) read'],
+    [kamiya.Conjugation.Negative, 'negative', '(I) don’t make/let (her) read', 'ない'],
+    [kamiya.Conjugation.Conjunctive, 'polite', '(I) make/let (her) read (polite)', 'ます'],
+    [kamiya.Conjugation.Ta, 'past', '(I) made/let (her) read'],
+    [kamiya.Conjugation.Conditional, 'conditional', 'as long as (I) made/let (her) read, …', 'ば'],
+    [kamiya.Conjugation.Imperative, 'imperative', 'Make/let (her) read'],
+    [kamiya.Conjugation.Volitional, 'volitional', '(I) will make/let (her) read'],
+    [kamiya.Conjugation.Te, 'te', '(I) make (her) read and thus …; because (I) make (her) read, …'],
+  ];
+  makeTable(kana, kanji, kamiya.Auxiliary.SeruSaseru, false, conjs);
+}
+seru();

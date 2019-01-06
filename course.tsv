@@ -161,8 +161,8 @@ base	base kana	conjugated	conjugated kana	English
 
 base	base kana	conjugated	conjugated kana	English
 遊ぶ＋tagaru	あそぶ＋tagaru	遊びたがる	あそびたがる	(he) wants to play
-遊びたがる＋negative	あそびたがる＋negative	遊びたがら	あそびたがら	(he) doesn’t want to play
-遊びたがる＋polite	あそびたがる＋polite	遊びたがり	あそびたがり	(he) wishes to play (polite)
+遊びたがる＋negative	あそびたがる＋negative	遊びたがらない	あそびたがらない	(he) doesn’t want to play
+遊びたがる＋polite	あそびたがる＋polite	遊びたがります	あそびたがります	(he) wishes to play (polite)
 遊びたがる＋past	あそびたがる＋past	遊びたがった	あそびたがった	(he) wanted to play
 遊びたがる＋te	あそびたがる＋te	遊びたがって	あそびたがって	(he) wants to play and thus …; because (he) wants to play, …
 遊びたがる＋tara	あそびたがる＋tara	遊びたがったら	あそびたがったら	if (he) wants to play, then …
@@ -175,5 +175,16 @@ base	base kana	conjugated	conjugated kana	English
 見てほしい＋conditional	みてほしい＋conditional	見てほしければ	みてほしければ	as long as (I) want (him) to see, …
 見てほしい＋te	みてほしい＋te	見てほしくて	みてほしくて	(I) want (him) to see and thus …; because (I) want (him) to see, …
 見てほしい＋tara	みてほしい＋tara	見てほしかったら	みてほしかったら	if (I) want (him) to see, then …
+
+
+base	base kana	conjugated	conjugated kana	English
+読む＋seru	よむ＋seru	読ませる	よませる	(I) make/let (her) read
+読ませる＋negative	よませる＋negative	読ませない	よませない	(I) don’t make/let (her) read
+読ませる＋polite	よませる＋polite	読ませます	よませます	(I) make/let (her) read (polite)
+読ませる＋past	よませる＋past	読ませた	よませた	(I) made/let (her) read
+読ませる＋conditional	よませる＋conditional	読ませれば	よませれば	as long as (I) made/let (her) read, …
+読ませる＋imperative	よませる＋imperative	読ませろ	よませろ	Make/let (her) read
+読ませる＋volitional	よませる＋volitional	読ませよう	よませよう	(I) will make/let (her) read
+読ませる＋te	よませる＋te	読ませて	よませて	(I) make (her) read and thus …; because (I) make (her) read, …
 
 

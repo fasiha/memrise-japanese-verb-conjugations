@@ -178,6 +178,19 @@ function seru() {
 }
 seru();
 
+function shortCausative() {
+  let kana = 'よむ';
+  let kanji = '読む';
+  let conjs: [kamiya.Conjugation, string, string, string?][] = [
+    [kamiya.Conjugation.Dictionary, 'seru (short)', '(I) make/let (them) read'],
+    [kamiya.Conjugation.Negative, 'negative', '(I) don’t make/let (them) read', 'ない'],
+    [kamiya.Conjugation.Conjunctive, 'polite', '(I) make/let (them) read (polite)', 'ます'],
+    [kamiya.Conjugation.Ta, 'past', '(I) made/let (them) read'],
+  ];
+  makeTable(kana, kanji, kamiya.Auxiliary.ShortenedCausative, false, conjs);
+}
+shortCausative();
+
 function saseru() {
   let kana = 'たべる';
   let kanji = '食べる';
@@ -199,11 +212,11 @@ function reru() {
   let kana = 'かく';
   let kanji = '書く';
   let conjs: [kamiya.Conjugation, string, string, string?][] = [
-    [kamiya.Conjugation.Dictionary, 'reru', '(it) is written'],
-    [kamiya.Conjugation.Negative, 'negative', '(it) isn’t written', 'ない'],
-    [kamiya.Conjugation.Conjunctive, 'polite', '(it) is written (polite)', 'ます'],
-    [kamiya.Conjugation.Ta, 'past', '(it) was written'],
-    [kamiya.Conjugation.Te, 'te', '(it) is written and thus …; because (it) is written, …'],
+    [kamiya.Conjugation.Dictionary, 'reru', '(it) is written; (I) can or am able to write'],
+    [kamiya.Conjugation.Negative, 'negative', '(it) isn’t written; (I) cannot or am unable to write', 'ない'],
+    [kamiya.Conjugation.Conjunctive, 'polite', '(it) is written (polite); (I) am able to write (polite)', 'ます'],
+    [kamiya.Conjugation.Ta, 'past', '(it) was written; (I) was able to write'],
+    [kamiya.Conjugation.Te, 'te', '(it) is written and thus …; (I) am able to write and thus …'],
   ];
   makeTable(kana, kanji, kamiya.Auxiliary.ReruRareu, false, conjs);
 }
@@ -213,11 +226,11 @@ function rareru() {
   let kana = 'みる';
   let kanji = '見る';
   let conjs: [kamiya.Conjugation, string, string, string?][] = [
-    [kamiya.Conjugation.Dictionary, 'rareru', '(it) is seen'],
-    [kamiya.Conjugation.Negative, 'negative', '(it) isn’t seen', 'ない'],
-    [kamiya.Conjugation.Conjunctive, 'polite', '(it) is seen (polite)', 'ます'],
-    [kamiya.Conjugation.Ta, 'past', '(it) was seen'],
-    [kamiya.Conjugation.Te, 'te', '(it) is seen and thus …; because (it) is seen, …'],
+    [kamiya.Conjugation.Dictionary, 'rareru', '(it) is seen; (I) can, or am able to, see'],
+    [kamiya.Conjugation.Negative, 'negative', '(it) isn’t seen; (I) cannot, or am not able to, see', 'ない'],
+    [kamiya.Conjugation.Conjunctive, 'polite', '(it) is seen (polite); (I) can, or am able to, see (polite)', 'ます'],
+    [kamiya.Conjugation.Ta, 'past', '(it) was seen; (I) was able to see'],
+    [kamiya.Conjugation.Te, 'te', '(it) is seen and thus …; (I) am able to see and thus …'],
   ];
   makeTable(kana, kanji, kamiya.Auxiliary.ReruRareu, true, conjs);
 }
@@ -233,6 +246,20 @@ function passiveCausative() {
     [kamiya.Conjugation.Ta, 'past', '(I) was made to write'],
     [kamiya.Conjugation.Te, 'te', '(I) am made to write and thus …; because (I) am made to write, …'],
   ];
-  makeTable(kana, kanji, kamiya.Auxiliary.CausativePassive, true, conjs);
+  makeTable(kana, kanji, kamiya.Auxiliary.CausativePassive, false, conjs);
 }
 passiveCausative();
+
+function shortPassiveCausative() {
+  let kana = 'かく';
+  let kanji = '書く';
+  let conjs: [kamiya.Conjugation, string, string, string?][] = [
+    [kamiya.Conjugation.Dictionary, 'seru+reru (short)', '(I) am made to write'],
+    [kamiya.Conjugation.Negative, 'negative', '(I) am not made to write', 'ない'],
+    [kamiya.Conjugation.Conjunctive, 'polite', '(I) am made to write (polite)', 'ます'],
+    [kamiya.Conjugation.Ta, 'past', '(I) was made to write'],
+    [kamiya.Conjugation.Te, 'te', '(I) am made to write and thus …; because (I) am made to write, …'],
+  ];
+  makeTable(kana, kanji, kamiya.Auxiliary.ShortenedCausativePassive, false, conjs);
+}
+shortPassiveCausative();

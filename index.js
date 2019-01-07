@@ -105,7 +105,7 @@ function masu() {
     let kana = 'いく';
     let kanji = '行く';
     let conjs = [
-        [kamiya.Conjugation.Dictionary, 'nai', 'I go (polite)'],
+        [kamiya.Conjugation.Dictionary, 'masu', 'I go (polite)'],
         [kamiya.Conjugation.Negative, 'negative', '(I) don’t/didn’t go'],
         [kamiya.Conjugation.Ta, 'past', '(I) went'],
         [kamiya.Conjugation.Volitional, 'volitional', '(I) will go, let’s go'],
@@ -117,7 +117,7 @@ function nai() {
     let kana = 'かう';
     let kanji = '買う';
     let conjs = [
-        [kamiya.Conjugation.Dictionary, 'masu', '(I) don’t buy'],
+        [kamiya.Conjugation.Dictionary, 'nai', '(I) don’t buy'],
         [kamiya.Conjugation.Negative, '    negative', '    it isn’t that (I) don’t buy'],
         [kamiya.Conjugation.Ta, '    past', '    (I) didn’t buy'],
         [kamiya.Conjugation.Conditional, '    conditional', '    as long as (I) don’t buy, …'],

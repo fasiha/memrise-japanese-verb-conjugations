@@ -105,11 +105,11 @@ function nai() {
   let kanji = '買う';
   let conjs: [kamiya.Conjugation, string, string][] = [
     [kamiya.Conjugation.Dictionary, 'nai', '(I) don’t buy'],
-    [kamiya.Conjugation.Negative, '    negative', '    it isn’t that (I) don’t buy'],
-    [kamiya.Conjugation.Ta, '    past', '    (I) didn’t buy'],
-    [kamiya.Conjugation.Conditional, '    conditional', '    as long as (I) don’t buy, …'],
-    [kamiya.Conjugation.Te, '    te', '    (I’m) not buying and so …; because (I’m) not buying, …'],
-    [kamiya.Conjugation.Tara, '    tara', '    if/when (I) don’t buy, then …'],
+    [kamiya.Conjugation.Negative, 'negative', 'it isn’t that (I) don’t buy'],
+    [kamiya.Conjugation.Ta, 'past', '(I) didn’t buy'],
+    [kamiya.Conjugation.Conditional, 'conditional', 'as long as (I) don’t buy, …'],
+    [kamiya.Conjugation.Te, 'te', '(I’m) not buying and so …; because (I’m) not buying, …'],
+    [kamiya.Conjugation.Tara, 'tara', 'if/when (I) don’t buy, then …'],
   ];
   makeTable(kana, kanji, kamiya.Auxiliary.Nai, false, conjs);
 }

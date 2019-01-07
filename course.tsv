@@ -135,14 +135,14 @@ base kana	conjugated kana	English	base	conjugated
 
 
 base kana	conjugated kana	English	base	conjugated
-いく＋masu	いきます	I go (polite)	行く＋masu	行きます
+いく＋polite	いきます	I go (polite)	行く＋polite	行きます
 いきます＋negative	いきません	(I) don’t/didn’t go	行きます＋negative	行きません
 いきます＋past	いきました	(I) went	行きます＋past	行きました
 いきます＋volitional	いきましょう	(I) will go, let’s go	行きます＋volitional	行きましょう
 
 
 base kana	conjugated kana	English	base	conjugated
-かう＋nai	かわない	(I) don’t buy	買う＋nai	買わない
+かう＋negative	かわない	(I) don’t buy	買う＋negative	買わない
 かわない＋negative	かわなくはない	it isn’t that (I) don’t buy	買わない＋negative	買わなくはない
 かわない＋past	かわなかった	(I) didn’t buy	買わない＋past	買わなかった
 かわない＋conditional	かわなければ	as long as (I) don’t buy, …	買わない＋conditional	買わなければ
@@ -155,7 +155,7 @@ base kana	conjugated kana	English	base	conjugated
 たべたい＋negative	たべたくない	(I) don’t want to eat	食べたい＋negative	食べたくない
 たべたい＋past	たべたかった	(I) wanted to eat	食べたい＋past	食べたかった
 たべたい＋conditional	たべたければ	as long as (I) want to eat, …	食べたい＋conditional	食べたければ
-たべたい＋te	たべたくて	(I) want to eat and thus …; because (I) want to eat, …	食べたい＋te	食べたくて
+たべたい＋te	たべたくて	(I) want to eat and …; because (I) want to eat, …	食べたい＋te	食べたくて
 たべたい＋tara	たべたかったら	if (I) want to eat, then …	食べたい＋tara	食べたかったら
 
 
@@ -164,7 +164,7 @@ base kana	conjugated kana	English	base	conjugated
 あそびたがる＋negative	あそびたがらない	(They) don’t want to play	遊びたがる＋negative	遊びたがらない
 あそびたがる＋polite	あそびたがります	(They) wish to play (polite)	遊びたがる＋polite	遊びたがります
 あそびたがる＋past	あそびたがった	(They) wanted to play	遊びたがる＋past	遊びたがった
-あそびたがる＋te	あそびたがって	(They) want to play and thus …; because (they) want to play, …	遊びたがる＋te	遊びたがって
+あそびたがる＋te	あそびたがって	(They) want to play and …; because (they) want to play, …	遊びたがる＋te	遊びたがって
 あそびたがる＋tara	あそびたがったら	if (they) want to play, then …	遊びたがる＋tara	遊びたがったら
 
 
@@ -173,7 +173,7 @@ base kana	conjugated kana	English	base	conjugated
 みてほしい＋negative	みてほしくない	(I) don’t want (them) to see	見てほしい＋negative	見てほしくない
 みてほしい＋past	みてほしかった	(I) wanted (them) to see	見てほしい＋past	見てほしかった
 みてほしい＋conditional	みてほしければ	as long as (I) want (them) to see, …	見てほしい＋conditional	見てほしければ
-みてほしい＋te	みてほしくて	(I) want (them) to see and thus …; because (I) want (them) to see, …	見てほしい＋te	見てほしくて
+みてほしい＋te	みてほしくて	(I) want (them) to see and …; because (I) want (them) to see, …	見てほしい＋te	見てほしくて
 みてほしい＋tara	みてほしかったら	if (I) want (them) to see, then …	見てほしい＋tara	見てほしかったら
 
 
@@ -185,7 +185,7 @@ base kana	conjugated kana	English	base	conjugated
 よませる＋conditional	よませれば	as long as (I) made/let (them) read, …	読ませる＋conditional	読ませれば
 よませる＋imperative	よませろ	Make/let (them) read!	読ませる＋imperative	読ませろ
 よませる＋volitional	よませよう	(I) will make/let (them) read	読ませる＋volitional	読ませよう
-よませる＋te	よませて	(I) make (them) read and thus …; because (I) make (them) read, …	読ませる＋te	読ませて
+よませる＋te	よませて	(I) make (them) read and …; because (I) make (them) read, …	読ませる＋te	読ませて
 
 
 base kana	conjugated kana	English	base	conjugated
@@ -203,7 +203,7 @@ base kana	conjugated kana	English	base	conjugated
 たべさせる＋conditional	たべさせれば	as long as (I) made/let (them) eat, …	食べさせる＋conditional	食べさせれば
 たべさせる＋imperative	たべさせろ	Make/let (them) eat!	食べさせる＋imperative	食べさせろ
 たべさせる＋volitional	たべさせよう	(I) will make/let (them) eat	食べさせる＋volitional	食べさせよう
-たべさせる＋te	たべさせて	(I) make (them) eat and thus …; because (I) make (them) eat, …	食べさせる＋te	食べさせて
+たべさせる＋te	たべさせて	(I) make (them) eat and …; because (I) make (them) eat, …	食べさせる＋te	食べさせて
 
 
 base kana	conjugated kana	English	base	conjugated
@@ -211,7 +211,7 @@ base kana	conjugated kana	English	base	conjugated
 かかれる＋negative	かかれない	(it) isn’t written; (I) cannot or am unable to write	書かれる＋negative	書かれない
 かかれる＋polite	かかれます	(it) is written (polite); (I) am able to write (polite)	書かれる＋polite	書かれます
 かかれる＋past	かかれた	(it) was written; (I) was able to write	書かれる＋past	書かれた
-かかれる＋te	かかれて	(it) is written and thus …; (I) am able to write and thus …	書かれる＋te	書かれて
+かかれる＋te	かかれて	(it) is written and …; (I) am able to write and …	書かれる＋te	書かれて
 
 
 base kana	conjugated kana	English	base	conjugated
@@ -219,7 +219,7 @@ base kana	conjugated kana	English	base	conjugated
 みられる＋negative	みられない	(it) isn’t seen; (I) cannot, or am not able to, see	見られる＋negative	見られない
 みられる＋polite	みられます	(it) is seen (polite); (I) can, or am able to, see (polite)	見られる＋polite	見られます
 みられる＋past	みられた	(it) was seen; (I) was able to see	見られる＋past	見られた
-みられる＋te	みられて	(it) is seen and thus …; (I) am able to see and thus …	見られる＋te	見られて
+みられる＋te	みられて	(it) is seen and …; (I) am able to see and …	見られる＋te	見られて
 
 
 base kana	conjugated kana	English	base	conjugated
@@ -227,7 +227,7 @@ base kana	conjugated kana	English	base	conjugated
 かかせられる＋negative	かかせられない	(I) am not made to write	書かせられる＋negative	書かせられない
 かかせられる＋polite	かかせられます	(I) am made to write (polite)	書かせられる＋polite	書かせられます
 かかせられる＋past	かかせられた	(I) was made to write	書かせられる＋past	書かせられた
-かかせられる＋te	かかせられて	(I) am made to write and thus …; because (I) am made to write, …	書かせられる＋te	書かせられて
+かかせられる＋te	かかせられて	(I) am made to write and …; because (I) am made to write, …	書かせられる＋te	書かせられて
 
 
 base kana	conjugated kana	English	base	conjugated
@@ -235,6 +235,6 @@ base kana	conjugated kana	English	base	conjugated
 かかされる＋negative	かかされない	(I) am not made to write	書かされる＋negative	書かされない
 かかされる＋polite	かかされます	(I) am made to write (polite)	書かされる＋polite	書かされます
 かかされる＋past	かかされた	(I) was made to write	書かされる＋past	書かされた
-かかされる＋te	かかされて	(I) am made to write and thus …; because (I) am made to write, …	書かされる＋te	書かされて
+かかされる＋te	かかされて	(I) am made to write and …; because (I) am made to write, …	書かされる＋te	書かされて
 
 

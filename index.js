@@ -105,7 +105,7 @@ function masu() {
     let kana = 'いく';
     let kanji = '行く';
     let conjs = [
-        [kamiya.Conjugation.Dictionary, 'masu', 'I go (polite)'],
+        [kamiya.Conjugation.Dictionary, 'polite', 'I go (polite)'],
         [kamiya.Conjugation.Negative, 'negative', '(I) don’t/didn’t go'],
         [kamiya.Conjugation.Ta, 'past', '(I) went'],
         [kamiya.Conjugation.Volitional, 'volitional', '(I) will go, let’s go'],
@@ -117,7 +117,7 @@ function nai() {
     let kana = 'かう';
     let kanji = '買う';
     let conjs = [
-        [kamiya.Conjugation.Dictionary, 'nai', '(I) don’t buy'],
+        [kamiya.Conjugation.Dictionary, 'negative', '(I) don’t buy'],
         [kamiya.Conjugation.Negative, 'negative', 'it isn’t that (I) don’t buy'],
         [kamiya.Conjugation.Ta, 'past', '(I) didn’t buy'],
         [kamiya.Conjugation.Conditional, 'conditional', 'as long as (I) don’t buy, …'],
@@ -135,7 +135,7 @@ function tai() {
         [kamiya.Conjugation.Negative, 'negative', '(I) don’t want to eat'],
         [kamiya.Conjugation.Ta, 'past', '(I) wanted to eat'],
         [kamiya.Conjugation.Conditional, 'conditional', 'as long as (I) want to eat, …'],
-        [kamiya.Conjugation.Te, 'te', '(I) want to eat and thus …; because (I) want to eat, …'],
+        [kamiya.Conjugation.Te, 'te', '(I) want to eat and …; because (I) want to eat, …'],
         [kamiya.Conjugation.Tara, 'tara', 'if (I) want to eat, then …'],
     ];
     makeTable(kana, kanji, kamiya.Auxiliary.Tai, true, conjs);
@@ -149,7 +149,7 @@ function tagaru() {
         [kamiya.Conjugation.Negative, 'negative', '(They) don’t want to play', 'ない'],
         [kamiya.Conjugation.Conjunctive, 'polite', '(They) wish to play (polite)', 'ます'],
         [kamiya.Conjugation.Ta, 'past', '(They) wanted to play'],
-        [kamiya.Conjugation.Te, 'te', '(They) want to play and thus …; because (they) want to play, …'],
+        [kamiya.Conjugation.Te, 'te', '(They) want to play and …; because (they) want to play, …'],
         [kamiya.Conjugation.Tara, 'tara', 'if (they) want to play, then …'],
     ];
     makeTable(kana, kanji, kamiya.Auxiliary.Tagaru, false, conjs);
@@ -163,7 +163,7 @@ function hoshii() {
         [kamiya.Conjugation.Negative, 'negative', '(I) don’t want (them) to see'],
         [kamiya.Conjugation.Ta, 'past', '(I) wanted (them) to see'],
         [kamiya.Conjugation.Conditional, 'conditional', 'as long as (I) want (them) to see, …'],
-        [kamiya.Conjugation.Te, 'te', '(I) want (them) to see and thus …; because (I) want (them) to see, …'],
+        [kamiya.Conjugation.Te, 'te', '(I) want (them) to see and …; because (I) want (them) to see, …'],
         [kamiya.Conjugation.Tara, 'tara', 'if (I) want (them) to see, then …'],
     ];
     makeTable(kana, kanji, kamiya.Auxiliary.Hoshii, true, conjs);
@@ -180,7 +180,7 @@ function seru() {
         [kamiya.Conjugation.Conditional, 'conditional', 'as long as (I) made/let (them) read, …', 'ば'],
         [kamiya.Conjugation.Imperative, 'imperative', 'Make/let (them) read!'],
         [kamiya.Conjugation.Volitional, 'volitional', '(I) will make/let (them) read'],
-        [kamiya.Conjugation.Te, 'te', '(I) make (them) read and thus …; because (I) make (them) read, …'],
+        [kamiya.Conjugation.Te, 'te', '(I) make (them) read and …; because (I) make (them) read, …'],
     ];
     makeTable(kana, kanji, kamiya.Auxiliary.SeruSaseru, false, conjs);
 }
@@ -208,7 +208,7 @@ function saseru() {
         [kamiya.Conjugation.Conditional, 'conditional', 'as long as (I) made/let (them) eat, …', 'ば'],
         [kamiya.Conjugation.Imperative, 'imperative', 'Make/let (them) eat!'],
         [kamiya.Conjugation.Volitional, 'volitional', '(I) will make/let (them) eat'],
-        [kamiya.Conjugation.Te, 'te', '(I) make (them) eat and thus …; because (I) make (them) eat, …'],
+        [kamiya.Conjugation.Te, 'te', '(I) make (them) eat and …; because (I) make (them) eat, …'],
     ];
     makeTable(kana, kanji, kamiya.Auxiliary.SeruSaseru, true, conjs);
 }
@@ -221,7 +221,7 @@ function reru() {
         [kamiya.Conjugation.Negative, 'negative', '(it) isn’t written; (I) cannot or am unable to write', 'ない'],
         [kamiya.Conjugation.Conjunctive, 'polite', '(it) is written (polite); (I) am able to write (polite)', 'ます'],
         [kamiya.Conjugation.Ta, 'past', '(it) was written; (I) was able to write'],
-        [kamiya.Conjugation.Te, 'te', '(it) is written and thus …; (I) am able to write and thus …'],
+        [kamiya.Conjugation.Te, 'te', '(it) is written and …; (I) am able to write and …'],
     ];
     makeTable(kana, kanji, kamiya.Auxiliary.ReruRareu, false, conjs);
 }
@@ -234,7 +234,7 @@ function rareru() {
         [kamiya.Conjugation.Negative, 'negative', '(it) isn’t seen; (I) cannot, or am not able to, see', 'ない'],
         [kamiya.Conjugation.Conjunctive, 'polite', '(it) is seen (polite); (I) can, or am able to, see (polite)', 'ます'],
         [kamiya.Conjugation.Ta, 'past', '(it) was seen; (I) was able to see'],
-        [kamiya.Conjugation.Te, 'te', '(it) is seen and thus …; (I) am able to see and thus …'],
+        [kamiya.Conjugation.Te, 'te', '(it) is seen and …; (I) am able to see and …'],
     ];
     makeTable(kana, kanji, kamiya.Auxiliary.ReruRareu, true, conjs);
 }
@@ -247,7 +247,7 @@ function passiveCausative() {
         [kamiya.Conjugation.Negative, 'negative', '(I) am not made to write', 'ない'],
         [kamiya.Conjugation.Conjunctive, 'polite', '(I) am made to write (polite)', 'ます'],
         [kamiya.Conjugation.Ta, 'past', '(I) was made to write'],
-        [kamiya.Conjugation.Te, 'te', '(I) am made to write and thus …; because (I) am made to write, …'],
+        [kamiya.Conjugation.Te, 'te', '(I) am made to write and …; because (I) am made to write, …'],
     ];
     makeTable(kana, kanji, kamiya.Auxiliary.CausativePassive, false, conjs);
 }
@@ -260,7 +260,7 @@ function shortPassiveCausative() {
         [kamiya.Conjugation.Negative, 'negative', '(I) am not made to write', 'ない'],
         [kamiya.Conjugation.Conjunctive, 'polite', '(I) am made to write (polite)', 'ます'],
         [kamiya.Conjugation.Ta, 'past', '(I) was made to write'],
-        [kamiya.Conjugation.Te, 'te', '(I) am made to write and thus …; because (I) am made to write, …'],
+        [kamiya.Conjugation.Te, 'te', '(I) am made to write and …; because (I) am made to write, …'],
     ];
     makeTable(kana, kanji, kamiya.Auxiliary.ShortenedCausativePassive, false, conjs);
 }
